@@ -4,9 +4,9 @@ DEBUG_TOOLBAR = False
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'django_data_analysis',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'NAME': 'fire_data_analysis',
+        'USER': 'xiangw',
+        'PASSWORD': '123456',
         'HOST': 'localhost',
         'PORT': '5432',
     }

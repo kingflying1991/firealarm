@@ -1,0 +1,46 @@
+    <!-- Here ADMIN_MEDIA_PREFIX is path to django admin media -->
+{% extends 'web/base.html' %}
+
+{% block content  %}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/prettify/r298/run_prettify.min.js"></script>
+<script type="text/javascript" src="{{STATIC_URL}}features/js/jquery.bootstrap-duallistbox.js"></script>
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.min.css">
+ <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}features/css/bootstrap-duallistbox.css" >
+
+
+  <h1>Please select features</h1>
+  <p>
+    Please select features listed in the left box and move them to the right box. We will generate the data cubes according to the features selected.
+  </p>
+
+  <form id="demoform"  method="post">
+    <select multiple="multiple" size="10" name="features">
+      {% for f in features %}
+      <option value="{{ f.feature_name }}">{{ f.feature_name }}</option>
+      {% endfor %}
+      <!--
+      <option value="build_type">build_type</option>
+      <option value="repeat_count" >repeat_count</option>
+      <option value="work_end">work_end</option>
+      <option value="time_of_day2">time_of_day2</option>
+      <option value="season">season</option>
+    -->
+    </select>
+    <br>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+
+  <script>
+    $('select[name="features"').bootstrapDualListbox({
+          nonSelectedListLabel: 'Non-selected',
+          selectedListLabel: 'Selected',
+          preserveSelectionOnMove: 'moved',
+          moveOnSelect: false,
+    });
+  </script>
+
+{% endblock %}
+

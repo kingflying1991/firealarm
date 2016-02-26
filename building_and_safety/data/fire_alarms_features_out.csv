@@ -1,0 +1,4 @@
+instance_no,alarm_code,building_type,repeat_cnt,activation_year,activation_month,activation_day,activation_hour,time_of_the_day,day_of_week,in_holiday,longtitude_x,latitude_y,region,temperature,rainfall,label
+602168-16062012,41931,apartment,0,2012,6,16,0,0,1,0,151.240846,-33.958616,sydney,29.0,0.1,0
+602172-16062012,350733,hotel,0,2012,6,16,0,0,1,0,151.28051,-33.889694,sydney,29.0,0.1,1
+602173-16062012,54231,others,0,2012,6,27,0,0,1,1,151.28051,-33.889694,katoomba,26.0,10.0,0

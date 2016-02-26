@@ -1,6 +1,10 @@
 import os
 from django.core.exceptions import SuspiciousOperation
 
+PROJECT_ROOT = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), ".."),
+)
+
 SECRET_KEY = "oxsha^)nxr80^^ti*-u-_=8ah19@8x-qqe)qhd5wd8)f402b+2"
 EMAIL_HOST_USER = '' # Gmail username
 EMAIL_HOST_PASSWORD = '' # Gmail password
@@ -54,6 +58,7 @@ STATICFILES_DIRS = (
 STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'djangobower.finders.BowerFinder',
 )
 
 # Templates
@@ -101,11 +106,15 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.humanize',
     'django.contrib.sitemaps',
-    'south',
     'toolbox',
-    'greeking',
     'building_and_safety',
+    'django_tables2',
+    'bootstrap_toolkit',
+    'djangobower',
+    'django_nvd3',
 )
+
+
 
 # Logging
 MUNIN_ROOT = '/var/cache/munin/www/'
@@ -165,7 +174,7 @@ LOGGING = {
     'loggers': {
         'django.request': {
             'handlers': ['mail_admins'],
-            'level': 'ERROR',
+            'level': 'DEBUG',
             'propagate': True,
         },
         'finder': {
@@ -185,6 +194,25 @@ LOGGING = {
         },
     }
 }
+
+
+
+# Django-bower
+# ------------
+BOWER_COMPONENTS_ROOT = os.path.join(PROJECT_ROOT, 'components')
+
+BOWER_PATH = '/usr/local/bin/bower'
+
+BOWER_INSTALLED_APPS = (
+    'jquery#1.9',
+    'underscore',
+    'nvd3#1.7.1',
+    'd3#3.3.13',
+)
+
+
+
+
 
 # Django debug toolbar configuration
 if DEBUG_TOOLBAR:

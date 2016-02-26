@@ -6,124 +6,106 @@ from django.db import models
 from django.db.models import Avg
 from django.utils import dateformat
 
+import usaddress
 from lifelines import KaplanMeierFitter
 
 logger = logging.getLogger(__name__)
 
+class FireAlarm(models.Model):
+    instance_number = models.CharField(max_length=20, db_index=True, help_text='False alarms instance number')
+    creation_date = models.DateTimeField(blank=True,null=True)
+    activation_date = models.DateTimeField(blank=True,null=True)
+    alarm_code = models.CharField(max_length=20,blank=True,null=True)
+    incd_address = models.CharField(max_length=1024,blank=True,null=True)
+    np_id = models.IntegerField(blank=True,null=True)
+    alarm_type = models.CharField(max_length=20,blank=True,null=True)
+    incident_type = models.CharField(max_length=50,blank=True,null=True)
+    call_source = models.CharField(max_length=20,blank=True,null=True)
+    repeat_count = models.IntegerField(blank=True,null=True)
+    x = models.FloatField(blank=True,null=True)
+    y = models.FloatField(blank=True,null=True)
 
-# Get the average wait time using a Kaplan-Meier Survival analysis estimate
-# Make arrays of the days since complaint, and whether a case is 'closed'
-# this creates the observations, and whether a "death" has been observed
-def get_kmf_fit(qs):
-    t = qs.values_list('days_since_complaint', flat=True)
-    c = qs.values_list('is_closed', flat=True)
-    kmf = KaplanMeierFitter()
-    kmf.fit(t, event_observed=c)
-    return kmf
+    # Extract fields
+    year = models.IntegerField(blank=True,null=True)
+    month = models.IntegerField(blank=True,null=True)
+    region  = models.CharField(max_length=20,blank=True,null=True)
 
-def get_kmf_median(kmf):
-    return kmf.median_
+    objects = models.Manager()
 
-class Complaint(models.Model):
+    class Meta:
+        ordering = ("-creation_date",)
+
+    def __str__(self):
+        return self.instance_number
+
+    def __unicode__(self):
+        return unicode(self.instance_number)
+
+    def get_date_in_detail(self):
+        if(self.activation_date):
+            self.year = self.activation_date.year
+            self.month = self.activation_date.month
+
+    def get_region(self):
+        if(self.incd_address):
+            try:
+                tag = usaddress.tag(self.incd_address)[0]
+                if(tag.has_key('PlaceName')):
+                    places = tag['PlaceName'].split(",")
+                    if(len(places) >= 1):
+                        self.region = places[len(places) - 1].strip()
+            except usaddress.RepeatedLabelError:
+                self.region = None
+
+class FireAlarmFeature(models.Model):
     """
-    A list of complaints filed to the L.A. Department of Building and Safety
+    The feature of false alarms of NSW, Australia
     """
-    csr = models.IntegerField(db_index=True, help_text='Customer Service Record number')
-    ladbs_inspection_district = models.CharField(max_length=4, blank=True, null=True)
-    address_house_number = models.CharField(max_length=10, blank=True, null=True)
-    address_house_fraction = models.CharField(max_length=10, blank=True, null=True)
-    address_street_direction = models.CharField(max_length=1, blank=True, null=True)
-    address_street_name = models.CharField(max_length=255, blank=True, null=True)
-    address_street_suffix = models.CharField(max_length=10, blank=True, null=True)
-    address_street_suffix_direction = models.CharField(max_length=1, blank=True, null=True)
-    address_street_zip = models.CharField(max_length=10,null=True, blank=True)
-    date_received = models.DateField(blank=True, null=True)
-    date_closed = models.DateField(blank=True, null=True)
-    date_due = models.DateField(blank=True, null=True)
-    case_flag = models.BooleanField()
-    csr_priority = models.CharField(max_length=1, blank=True, null=True, help_text='Priority level, 1 is the most severe, 3 is a quality of life nuisance.')
-    gis_pin = models.CharField(max_length=20, blank=True, null=True, help_text='Parcel identification number')
-    csr_problem_type = models.CharField(max_length=255, blank=True, null=True)
-    area_planning_commission = models.CharField(max_length=20, blank=True, null=True)
-    case_number_csr = models.CharField(max_length=255, blank=True, null=True)
-    response_days = models.CharField(max_length=4, null=True, blank=True, help_text="Since open and closed cases calculate this differently, it's useless.")
-    lat = models.FloatField(null=True)
-    lon = models.FloatField(null=True)
+    instance_number = models.CharField(max_length=20, db_index=True, help_text='False alarms instance number')
 
-    # Add-ons
-    full_address = models.CharField(max_length=255, blank=True, null=True)
-    is_closed = models.BooleanField()
-    gt_30_days = models.BooleanField(default=False, verbose_name="Older than 30 days")
-    gt_90_days = models.BooleanField(default=False, verbose_name="Older than 90 days")
-    gt_180_days = models.BooleanField(default=False, verbose_name="Older than 180 days")
-    more_than_one_year = models.BooleanField(default=False, verbose_name="Older than one year")
-    days_since_complaint = models.IntegerField(null=True, verbose_name="Days since complaint was filed",
-        help_text="Days since the complaint was filed or days since filed until it was addressed.")
-    past_due_date = models.BooleanField(default=False)
-    days_past_due_date = models.IntegerField(null=True)
+    year = models.IntegerField(blank=True, null=True)
+    month = models.IntegerField(blank=True, null=True)
+    day = models.IntegerField(blank=True, null=True)
+    hour = models.IntegerField(blank=True, null=True)
 
-    # Fields to fill out manually
-    inspector = models.CharField(max_length=255, blank=True, null=True)
-    inspector_phone_number = models.CharField(max_length=255, blank=True, null=True)
-    notes = models.TextField(null=True, blank=True)
-    lat_visited = models.BooleanField(default=False, verbose_name="Whether a location has been visited by an LAT reporter")
-    investigate_further = models.BooleanField(default=False)
-    housing_dept_related = models.BooleanField(default=False, verbose_name="Many complaints actually fall under the jurisdiction of the housing department.")
+    time_of_the_day = models.CharField(max_length=20,blank=True, null=True)
+    raw_time_of_the_day = models.CharField(max_length=20,blank=True, null=True)
+    day_of_week = models.CharField(max_length=20, blank=True, null=True)
+    raw_day_of_week = models.CharField(max_length=20, blank=True, null=True)
+
+    season = models.CharField(max_length=20, blank=True, null=True)
+    in_holiday = models.NullBooleanField(default=False)
+
+    alarm_type = models.IntegerField(blank=True,null=True)
+    incident_type = models.IntegerField(blank=True,null=True)
+    alarm_code = models.CharField(max_length=10, blank=True, null=True)
+
+    repeat_count  = models.IntegerField(blank=True, null=True)
+    building_type = models.CharField(max_length=20, blank=True, null=True)
+
+    region = models.CharField(max_length=10, blank=True, null=True)
+    longtitude_x = models.FloatField(null=True,blank=True)
+    latitude_y = models.FloatField(null=True,blank=True)
+
+    temperature = models.FloatField(blank=True, null=True)
+    rainfall = models.FloatField(blank=True, null=True)
+
+    true_or_false_alarm = models.BooleanField(blank=False, null=False,default=False)
 
     # Managers
     objects = models.Manager()
 
     class Meta:
-        ordering = ("-date_received",)
+        ordering = ("-year", "-month", "-day", "-hour")
+
+    def __str__(self):
+        return self.instance_number
 
     def __unicode__(self):
         return unicode(self.csr)
 
-    def get_full_address(self):
-        address_components = [self.address_house_number, self.address_house_fraction, self.address_street_direction,
-            self.address_street_name, self.address_street_suffix, self.address_street_suffix_direction]
-        full_address = [component for component in address_components if component != ' ']
-        return ' '.join(full_address)
-
-    def get_closed_date(self):
-        if self.date_closed:
-            return dateformat.format(self.date_closed,'F j, Y')
-        else:
-            return None
-
-    def get_related_complaints(self):
-        qs = Complaint.objects.filter(full_address=self.full_address).exclude(csr=self.csr)
-        return qs
-
-    def get_days_since_complaint(self):
-        """
-        Calculate the days since a complaint was filed and when it was addressed.
-        If a complaint is still unaddressed, use the date the data was pulled from the DB. 
-        """
-        most_recent_date = datetime.strptime("7/13/2014", "%m/%d/%Y").date()
-        if self.date_closed:
-            t = self.date_closed - self.date_received
-        else:
-            t = most_recent_date - self.date_received
-
-        return t.days
-
-    def get_gt_t_days(self, n):
-        if self.days_since_complaint > n:
-            return True
-        return False
-
-    def get_days_past_due(self):
-        most_recent_date = datetime.strptime("7/13/2014", "%m/%d/%Y").date()
-        if self.date_closed:
-            t = self.date_closed - self.date_due
-        else:
-            t = most_recent_date - self.date_due
-
-        if t.days > 0:
-            return True, t.days
-        else:
-            return False, 0
+    def get_activate_date(self):
+        return "-".join([str(self.year), str(self.month), str(self.day)])
 
     def as_geojson_dict(self):
         """
@@ -134,17 +116,28 @@ class Complaint(models.Model):
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    float(self.lon),
-                    float(self.lat)
+                    float(self.longtitude_x),
+                    float(self.latitude_y)
                 ]
             },
             "properties": {
-                "address": self.full_address,
-                "csr": self.csr,
-                "date": dateformat.format(self.date_received, 'F j, Y'),
-                "closed": self.get_closed_date(),
-                "type": self.csr_problem_type,
-                "priority": self.csr_priority
+                "instance_no": self.instance_no,
+                "date": self.get_activate_date(),
+                "building_type": self.building_type
             }
         }
         return as_dict
+
+class Features(models.Model):
+    feature_name = models.CharField(max_length=20, db_index=True, help_text='Feature name')
+    feature_desc = models.CharField(max_length=30, blank=True, null=True)
+
+    def __str__(self):
+        return self.feature_name
+
+class DataCube(models.Model):
+    features = models.CharField(max_length=50, help_text='The feature combinations')
+    true_alarm = models.IntegerField(null=True, blank=True)
+    false_alarm = models.IntegerField(null=True, blank=True)
+    per_true_alarm = models.FloatField(null=True, blank=True)
+    per_false_alarm = models.FloatField(null=True, blank=True)

@@ -1,0 +1,31 @@
+incident_number,season,time_of_day2,build_type,work_end,true_alarm,false_alarm,true_percentage,false_percentage
+602600-16062012,Winter,Cooking-time,restaurant,Week_ends,0,13,0,100
+603972-19062012,Winter,Cooking-time,restaurant,Work_days,0,32,0,100
+605730-23062012,Winter,Night-time,house,Week_ends,0,13,0,100
+606038-23062012,Winter,Office Hours,house,Week_ends,0,23,0,100
+606521-24062012,Winter,Cooking-time,industry_facility,Week_ends,0,56,0,100
+614907-09072012,Winter,Office Hours,restaurant,Work_days,0,17,0,100
+649314-01092012,Spring,Cooking-time,restaurant,Week_ends,0,11,0,100
+649485-01092012,Spring,Office Hours,hospital,Week_ends,0,147,0,100
+650581-02092012,Spring,Office Hours,tansport,Week_ends,0,23,0,100
+650655-02092012,Spring,Office Hours,industry_facility,Week_ends,0,42,0,100
+657626-09092012,Spring,Office Hours,house,Week_ends,0,15,0,100
+662625-15092012,Spring,Night-time,house,Week_ends,0,10,0,100
+663214-16092012,Spring,Office Hours,restaurant,Week_ends,0,8,0,100
+664089-18092012,Spring,Night-time,restaurant,Work_days,0,21,0,100
+718560-01122012,Summer,Night-time,rest_home,Week_ends,0,153,0,100
+724585-08122012,Summer,Office Hours,house,Week_ends,0,12,0,100
+724698-08122012,Summer,Cooking-time,restaurant,Week_ends,0,16,0,100
+726361-11122012,Summer,Cooking-time,restaurant,Work_days,0,33,0,100
+729424-15122012,Summer,Office Hours,tansport,Week_ends,0,31,0,100
+003323-05012013,Summer,Night-time,restaurant,Week_ends,0,11,0,100
+003673-05012013,Summer,Office Hours,restaurant,Week_ends,0,2,0,100
+047081-02032013,Autumn,Night-time,public_facility,Week_ends,0,193,0,100
+047468-02032013,Autumn,Cooking-time,restaurant,Week_ends,0,12,0,100
+049620-06032013,Autumn,Cooking-time,restaurant,Work_days,0,34,0,100
+051038-09032013,Autumn,Office Hours,industry_facility,Week_ends,0,35,0,100
+055927-18032013,Autumn,Night-time,restaurant,Work_days,0,20,0,100
+056201-18032013,Autumn,Office Hours,restaurant,Work_days,0,31,0,100
+067942-06042013,Autumn,Office Hours,restaurant,Week_ends,0,5,0,100
+068109-06042013,Autumn,Night-time,restaurant,Week_ends,0,5,0,100
+103305-06062013,Winter,Night-time,restaurant,Work_days,0,14,0,100

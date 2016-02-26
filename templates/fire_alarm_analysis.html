@@ -1,0 +1,38 @@
+{% extends 'ngux-tophat/base.html' %}
+{% load humanize toolbox_tags %}
+
+{% block content %}
+<style type="text/css">
+    table .data {text-align:right;}
+    .small {font-size:12px;}
+</style>
+
+<div class="page-header">
+    <h1>Alarm analysis</h1>
+</div>
+
+<h2>By Features, {{ feature_name}}</h2>
+        <table class="table table-striped table-bordered table-condensed">
+            <thead>
+                <tr>
+                    <th>Features</th>
+                    <th class="data">false_alarms</th>
+                    <th class="data">true_alarms</th>
+                    <th class="data">per_false_alarms</th>
+                    <th class="data">per_true_alarms</th>
+                </tr>                
+            </thead>
+            <tbody>
+                {% for feature, value in features.items %}
+                <tr>
+                    <td>{{ feature }}</td>
+                    <td class="data">{{ value.false_alarm }}</td>
+                     <td class="data">{{ value.true_alarm }}</td>
+                    <td class="data">{{ value.per_false_alarm }}</td>  
+                    <td class="data">{{ value.per_true_alarm }}</td>  
+                </tr>
+                {% endfor%}
+            </tbody>
+        </table>    
+
+{% endblock %}

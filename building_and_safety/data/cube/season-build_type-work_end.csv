@@ -1,0 +1,5 @@
+incident_number,season,build_type,work_end,true_alarm,false_alarm,true_percentage,false_percentage
+603972-19062012,Winter,restaurant,Work_days,0,63,0,100
+724698-08122012,Summer,restaurant,Week_ends,0,29,0,100
+047468-02032013,Autumn,restaurant,Week_ends,0,22,0,100
+049620-06032013,Autumn,restaurant,Work_days,0,85,0,100

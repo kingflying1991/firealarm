@@ -1,0 +1,6 @@
+incident_number,season,time_of_day2,build_type,true_alarm,false_alarm,true_percentage,false_percentage
+602600-16062012,Winter,Cooking-time,restaurant,0,45,0,100
+724698-08122012,Summer,Cooking-time,restaurant,0,49,0,100
+047468-02032013,Autumn,Cooking-time,restaurant,0,46,0,100
+055927-18032013,Autumn,Night-time,restaurant,0,25,0,100
+056201-18032013,Autumn,Office Hours,restaurant,0,36,0,100

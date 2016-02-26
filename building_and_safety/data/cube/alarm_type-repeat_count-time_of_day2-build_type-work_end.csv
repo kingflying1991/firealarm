@@ -1,0 +1,1585 @@
+incident_number,alarm_type,repeat_count,time_of_day2,build_type,work_end,true_alarm,false_alarm,true_percentage,false_percentage
+602192-16062012,6200,1,Night-time,others,Week_ends,0,18,0,100
+602299-16062012,6110,0,Office Hours,school,Week_ends,0,62,0,100
+602311-16062012,6990,1,Office Hours,apartment,Week_ends,0,41,0,100
+602324-16062012,6900,1,Office Hours,school,Week_ends,0,31,0,100
+602335-16062012,6100,0,Office Hours,school,Week_ends,0,117,0,100
+602380-16062012,1100,1,Cooking-time,school,Week_ends,0,14,0,100
+602461-16062012,6110,1,Office Hours,others,Week_ends,0,7,0,100
+602600-16062012,6900,0,Cooking-time,restaurant,Week_ends,0,19,0,100
+602622-16062012,6200,0,Night-time,rest_home,Week_ends,0,23,0,100
+602647-16062012,6990,1,Night-time,others,Week_ends,0,165,0,100
+602686-17062012,6990,1,Night-time,school,Week_ends,0,22,0,100
+602690-17062012,1120,0,Night-time,industry_facility,Week_ends,0,2,0,100
+602707-17062012,6990,2,Night-time,school,Week_ends,0,3,0,100
+602804-17062012,6990,1,Office Hours,hotel,Week_ends,0,23,0,100
+602829-17062012,6200,0,Cooking-time,office,Week_ends,0,35,0,100
+602844-17062012,6900,1,Cooking-time,shopping_mall,Week_ends,0,30,0,100
+602900-17062012,6200,0,Office Hours,industry_facility,Week_ends,0,6,0,100
+602906-17062012,6990,1,Office Hours,shopping_mall,Week_ends,0,41,0,100
+602944-17062012,6990,1,Office Hours,hospital,Week_ends,0,25,0,100
+602989-17062012,6900,2,Cooking-time,apartment,Week_ends,0,13,0,100
+603022-17062012,1100,0,Cooking-time,office,Week_ends,0,24,0,100
+603033-17062012,6900,3,Cooking-time,apartment,Week_ends,0,5,0,100
+603190-18062012,6100,2,Cooking-time,hospital,Work_days,0,48,0,100
+603219-18062012,6110,0,Cooking-time,rest_home,Work_days,0,21,0,100
+603309-18062012,6900,1,Office Hours,office,Work_days,0,33,0,100
+603405-18062012,1100,0,Office Hours,hospital,Work_days,0,13,0,100
+603444-18062012,1100,0,Office Hours,industry_facility,Work_days,0,18,0,100
+603461-18062012,1120,1,Office Hours,others,Work_days,0,2,0,100
+603477-18062012,1100,1,Office Hours,industry_facility,Work_days,0,1,0,100
+603510-18062012,1100,1,Cooking-time,hospital,Work_days,0,6,0,100
+603595-19062012,6200,0,Night-time,school,Work_days,0,60,0,100
+603662-19062012,6200,1,Night-time,shopping_mall,Work_days,0,25,0,100
+603744-19062012,6990,0,Office Hours,tansport,Work_days,0,38,0,100
+603753-19062012,6200,0,Office Hours,industry_facility,Work_days,0,17,0,100
+603754-19062012,6900,1,Office Hours,shopping_mall,Work_days,0,37,0,100
+603785-19062012,6990,1,Office Hours,public_facility,Work_days,0,57,0,100
+603823-19062012,1100,0,Cooking-time,hospital,Work_days,0,37,0,100
+603859-19062012,1100,0,Cooking-time,house,Work_days,0,17,0,100
+603860-19062012,6100,0,Cooking-time,house,Work_days,0,107,0,100
+603972-19062012,6900,0,Cooking-time,restaurant,Work_days,0,52,0,100
+604097-20062012,6100,2,Night-time,hospital,Work_days,0,31,0,100
+604103-20062012,6900,1,Night-time,office,Work_days,0,37,0,100
+604132-20062012,6900,1,Cooking-time,industry_facility,Work_days,0,24,0,100
+604232-20062012,6990,1,Office Hours,industry_facility,Work_days,0,21,0,100
+604354-20062012,6110,0,Office Hours,hospital,Work_days,0,36,0,100
+604423-20062012,6100,0,Office Hours,house,Work_days,0,50,0,100
+604671-21062012,6900,2,Night-time,others,Work_days,0,68,0,100
+604681-21062012,1100,0,Night-time,industry_facility,Work_days,0,25,0,100
+604692-21062012,1100,0,Night-time,hospital,Work_days,0,16,0,100
+604813-21062012,6990,1,Office Hours,rest_home,Work_days,0,41,0,100
+604986-21062012,6100,1,Cooking-time,apartment,Work_days,0,155,0,100
+604993-21062012,6990,2,Cooking-time,shopping_mall,Work_days,0,34,0,100
+605105-22062012,6110,0,Night-time,rest_home,Work_days,0,19,0,100
+605258-22062012,1370,0,Office Hours,others,Work_days,0,1,0,100
+605302-22062012,6990,2,Cooking-time,apartment,Work_days,0,44,0,100
+605600-22062012,0,0,Cooking-time,rest_home,Work_days,0,8,0,100
+605723-23062012,6200,0,Night-time,school,Week_ends,0,17,0,100
+605832-23062012,6100,1,Cooking-time,tansport,Week_ends,0,8,0,100
+606039-23062012,6990,1,Office Hours,house,Week_ends,0,3,0,100
+606087-23062012,0,0,Office Hours,others,Week_ends,0,6,0,100
+606190-23062012,6990,1,Cooking-time,hotel,Week_ends,0,66,0,100
+606198-23062012,0,0,Cooking-time,others,Week_ends,0,9,0,100
+606399-24062012,6900,1,Night-time,hotel,Week_ends,0,29,0,100
+606401-24062012,6100,1,Night-time,apartment,Week_ends,0,40,0,100
+606446-24062012,6990,0,Night-time,industry_facility,Week_ends,0,63,0,100
+606455-24062012,6100,1,Night-time,hospital,Week_ends,0,48,0,100
+606465-24062012,6200,0,Night-time,industry_facility,Week_ends,0,12,0,100
+606512-24062012,6100,1,Cooking-time,school,Week_ends,0,40,0,100
+606521-24062012,6100,1,Cooking-time,industry_facility,Week_ends,0,6,0,100
+606541-24062012,6990,1,Cooking-time,industry_facility,Week_ends,0,13,0,100
+606580-24062012,1100,0,Office Hours,restaurant,Week_ends,0,1,0,100
+606611-24062012,6200,1,Cooking-time,industry_facility,Week_ends,0,2,0,100
+606719-24062012,6900,1,Office Hours,public_facility,Week_ends,0,15,0,100
+606755-24062012,6990,1,Office Hours,others,Week_ends,0,104,0,100
+606885-25062012,6990,2,Night-time,industry_facility,Work_days,0,2,0,100
+606895-25062012,6990,2,Night-time,others,Work_days,0,87,0,100
+606917-25062012,6100,2,Night-time,school,Work_days,0,13,0,100
+606929-25062012,7100,0,Cooking-time,others,Work_days,0,1,0,100
+607026-25062012,6110,1,Office Hours,apartment,Work_days,0,9,0,100
+607032-25062012,6900,2,Office Hours,shopping_mall,Work_days,0,5,0,100
+607197-25062012,6110,2,Office Hours,apartment,Work_days,0,2,0,100
+607384-25062012,6200,0,Night-time,industry_facility,Work_days,0,14,0,100
+607437-26062012,6990,1,Night-time,industry_facility,Work_days,0,23,0,100
+607460-26062012,6200,0,Cooking-time,tansport,Work_days,0,19,0,100
+607669-26062012,0,0,Office Hours,office,Work_days,0,3,0,100
+607671-26062012,0,0,Office Hours,rest_home,Work_days,0,5,0,100
+607674-26062012,0,0,Cooking-time,tansport,Work_days,0,1,0,100
+607692-26062012,0,0,Cooking-time,hotel,Work_days,0,6,0,100
+607746-26062012,0,0,Cooking-time,school,Work_days,0,8,0,100
+607806-26062012,0,0,Office Hours,public_facility,Work_days,0,2,0,100
+607820-26062012,0,0,Office Hours,house,Work_days,0,2,0,100
+607849-26062012,0,0,Office Hours,shopping_mall,Work_days,0,2,0,100
+607867-26062012,0,0,Cooking-time,house,Work_days,0,6,0,100
+607903-26062012,0,0,Cooking-time,industry_facility,Work_days,0,2,0,100
+607922-26062012,0,0,Cooking-time,public_facility,Work_days,0,5,0,100
+608004-26062012,0,0,Night-time,others,Work_days,0,20,0,100
+608021-27062012,0,0,Night-time,public_facility,Work_days,0,5,0,100
+608055-27062012,0,0,Night-time,apartment,Work_days,0,8,0,100
+608065-27062012,0,0,Night-time,shopping_mall,Work_days,0,1,0,100
+608068-27062012,0,0,Night-time,house,Work_days,0,3,0,100
+608459-27062012,1100,1,Cooking-time,others,Work_days,0,74,0,100
+608469-27062012,6900,1,Cooking-time,rest_home,Work_days,0,102,0,100
+608580-28062012,1100,0,Night-time,hotel,Work_days,0,20,0,100
+608653-28062012,1100,0,Cooking-time,public_facility,Work_days,0,95,0,100
+608892-28062012,6900,1,Office Hours,rest_home,Work_days,0,63,0,100
+609122-29062012,6110,0,Night-time,industry_facility,Work_days,0,20,0,100
+609167-29062012,6100,1,Night-time,public_facility,Work_days,0,54,0,100
+609189-29062012,6900,1,Cooking-time,hotel,Work_days,0,53,0,100
+609199-29062012,6110,1,Cooking-time,others,Work_days,0,60,0,100
+609265-29062012,6900,2,Office Hours,others,Work_days,0,54,0,100
+609288-29062012,6990,1,Office Hours,hospital,Work_days,0,71,0,100
+609341-29062012,6990,1,Cooking-time,school,Work_days,0,100,0,100
+609368-29062012,7110,0,Cooking-time,others,Work_days,0,9,0,100
+609536-29062012,6110,2,Cooking-time,others,Work_days,0,8,0,100
+609562-29062012,6100,1,Cooking-time,public_facility,Work_days,0,70,0,100
+609610-29062012,1100,1,Cooking-time,apartment,Work_days,0,21,0,100
+609712-30062012,1900,0,Night-time,apartment,Week_ends,0,7,0,100
+609733-30062012,1100,1,Night-time,others,Week_ends,0,32,0,100
+609746-30062012,1900,1,Night-time,apartment,Week_ends,0,2,0,100
+609765-30062012,1900,2,Night-time,apartment,Week_ends,0,2,0,100
+609767-30062012,6110,0,Night-time,hospital,Week_ends,0,12,0,100
+609860-30062012,6990,0,Office Hours,school,Week_ends,0,120,0,100
+609882-30062012,6990,2,Office Hours,apartment,Week_ends,0,8,0,100
+609922-30062012,6100,2,Cooking-time,others,Week_ends,0,27,0,100
+609945-30062012,6200,0,Cooking-time,tansport,Week_ends,0,9,0,100
+609974-30062012,1100,2,Cooking-time,apartment,Week_ends,0,3,0,100
+610014-30062012,6990,0,Office Hours,industry_facility,Week_ends,0,44,0,100
+610283-30062012,6110,0,Night-time,hotel,Week_ends,0,16,0,100
+610292-30062012,1900,3,Night-time,apartment,Week_ends,0,1,0,100
+610414-01072012,1100,0,Night-time,school,Week_ends,0,28,0,100
+610434-01072012,1900,4,Cooking-time,apartment,Week_ends,0,1,0,100
+610471-01072012,1100,2,Office Hours,school,Week_ends,0,3,0,100
+610517-01072012,6990,1,Cooking-time,school,Week_ends,0,23,0,100
+610585-01072012,6110,0,Office Hours,public_facility,Week_ends,0,28,0,100
+610836-01072012,0,1,Night-time,industry_facility,Week_ends,0,1,0,100
+610861-02072012,7110,0,Night-time,others,Work_days,0,6,0,100
+611033-02072012,6110,1,Cooking-time,apartment,Work_days,0,20,0,100
+611105-02072012,6900,1,Cooking-time,office,Work_days,0,57,0,100
+611237-02072012,6200,1,Office Hours,apartment,Work_days,0,25,0,100
+611309-02072012,6900,2,Cooking-time,office,Work_days,0,13,0,100
+611320-02072012,6120,0,Cooking-time,industry_facility,Work_days,0,12,0,100
+611321-02072012,1170,0,Cooking-time,industry_facility,Work_days,0,1,0,100
+611403-03072012,6900,3,Night-time,apartment,Work_days,0,5,0,100
+611408-03072012,6120,1,Night-time,industry_facility,Work_days,0,1,0,100
+611409-03072012,1170,1,Night-time,industry_facility,Work_days,0,1,0,100
+611424-03072012,6110,0,Night-time,office,Work_days,0,31,0,100
+611511-03072012,6110,0,Office Hours,rest_home,Work_days,0,23,0,100
+611562-03072012,6900,3,Office Hours,office,Work_days,0,1,0,100
+611653-03072012,6990,2,Cooking-time,hotel,Work_days,0,23,0,100
+611691-03072012,6200,2,Office Hours,shopping_mall,Work_days,0,5,0,100
+611808-03072012,6200,3,Cooking-time,shopping_mall,Work_days,0,3,0,100
+611828-03072012,6200,4,Cooking-time,shopping_mall,Work_days,0,1,0,100
+611912-03072012,6900,4,Night-time,apartment,Work_days,0,5,0,100
+611946-04072012,6100,3,Night-time,others,Work_days,0,17,0,100
+612022-04072012,6900,5,Cooking-time,apartment,Work_days,0,5,0,100
+612279-04072012,6110,1,Office Hours,school,Work_days,0,65,0,100
+612533-05072012,6100,4,Night-time,others,Work_days,0,7,0,100
+612591-05072012,6990,0,Night-time,house,Work_days,0,33,0,100
+612694-05072012,6110,3,Office Hours,school,Work_days,0,1,0,100
+612737-05072012,1100,0,Office Hours,public_facility,Work_days,0,62,0,100
+613070-05072012,6990,2,Night-time,apartment,Work_days,0,19,0,100
+613110-06072012,6110,0,Night-time,hospital,Work_days,0,24,0,100
+613119-06072012,1100,1,Night-time,others,Work_days,0,75,0,100
+613265-06072012,6100,3,Office Hours,hospital,Work_days,0,8,0,100
+613572-07072012,1100,0,Night-time,apartment,Week_ends,0,41,0,100
+613591-07072012,6110,0,Night-time,shopping_mall,Week_ends,0,9,0,100
+613710-07072012,6900,0,Office Hours,house,Week_ends,0,19,0,100
+613761-07072012,7110,0,Office Hours,others,Week_ends,0,4,0,100
+613911-07072012,1100,0,Office Hours,apartment,Week_ends,0,34,0,100
+613957-07072012,6990,2,Office Hours,shopping_mall,Week_ends,0,12,0,100
+614068-07072012,6110,1,Cooking-time,apartment,Week_ends,0,4,0,100
+614337-08072012,6900,1,Office Hours,shopping_mall,Week_ends,0,13,0,100
+614414-08072012,6990,1,Cooking-time,hospital,Week_ends,0,52,0,100
+614545-08072012,6100,0,Office Hours,tansport,Week_ends,0,19,0,100
+614644-08072012,1900,0,Cooking-time,shopping_mall,Week_ends,0,2,0,100
+614882-09072012,6100,1,Office Hours,office,Work_days,0,22,0,100
+615138-09072012,6900,3,Cooking-time,office,Work_days,0,3,0,100
+615156-09072012,6900,1,Cooking-time,shopping_mall,Work_days,0,79,0,100
+615231-09072012,6900,2,Night-time,apartment,Work_days,0,17,0,100
+615322-10072012,6900,3,Night-time,others,Work_days,0,18,0,100
+615413-10072012,6900,3,Office Hours,apartment,Work_days,0,3,0,100
+615560-10072012,6990,1,Office Hours,hotel,Work_days,0,76,0,100
+615668-10072012,6100,1,Cooking-time,hotel,Work_days,0,71,0,100
+615681-10072012,6120,0,Cooking-time,office,Work_days,0,2,0,100
+615972-11072012,6110,2,Office Hours,others,Work_days,0,5,0,100
+616304-12072012,6990,2,Night-time,hotel,Work_days,0,15,0,100
+616364-12072012,6990,1,Cooking-time,house,Work_days,0,9,0,100
+616597-12072012,1100,1,Cooking-time,office,Work_days,0,14,0,100
+616653-12072012,6110,0,Cooking-time,shopping_mall,Work_days,0,22,0,100
+616677-12072012,1100,2,Night-time,office,Work_days,0,8,0,100
+616708-13072012,6900,1,Night-time,rest_home,Work_days,0,56,0,100
+616729-13072012,1100,3,Night-time,office,Work_days,0,4,0,100
+616747-13072012,6200,1,Night-time,industry_facility,Work_days,0,2,0,100
+616750-13072012,6110,1,Night-time,hotel,Work_days,0,3,0,100
+616766-13072012,1100,1,Night-time,shopping_mall,Work_days,0,23,0,100
+616870-13072012,1900,0,Office Hours,public_facility,Work_days,0,5,0,100
+616949-13072012,6200,1,Cooking-time,school,Work_days,0,19,0,100
+616956-13072012,6990,2,Cooking-time,industry_facility,Work_days,0,4,0,100
+617019-13072012,1100,4,Office Hours,office,Work_days,0,1,0,100
+617036-13072012,6100,1,Office Hours,rest_home,Work_days,0,59,0,100
+617136-13072012,6200,1,Cooking-time,apartment,Work_days,0,46,0,100
+617193-13072012,6100,1,Cooking-time,rest_home,Work_days,0,83,0,100
+617374-14072012,6900,2,Night-time,hospital,Week_ends,0,9,0,100
+617390-14072012,6990,2,Night-time,others,Week_ends,0,38,0,100
+617472-14072012,6110,3,Cooking-time,school,Week_ends,0,1,0,100
+617509-14072012,6100,0,Cooking-time,house,Week_ends,0,30,0,100
+617530-14072012,6200,1,Cooking-time,school,Week_ends,0,5,0,100
+617531-14072012,6990,3,Cooking-time,others,Week_ends,0,9,0,100
+617575-14072012,6200,0,Office Hours,office,Week_ends,0,9,0,100
+617688-14072012,1100,1,Office Hours,public_facility,Week_ends,0,3,0,100
+617744-14072012,1100,2,Office Hours,public_facility,Week_ends,0,1,0,100
+617766-14072012,6110,1,Cooking-time,others,Week_ends,0,12,0,100
+617797-14072012,6100,1,Cooking-time,rest_home,Week_ends,0,31,0,100
+617837-14072012,6100,1,Night-time,industry_facility,Week_ends,0,5,0,100
+618247-15072012,6100,1,Cooking-time,hotel,Week_ends,0,27,0,100
+618411-16072012,6200,0,Night-time,office,Work_days,0,38,0,100
+618505-16072012,6200,0,Cooking-time,industry_facility,Work_days,0,26,0,100
+618730-16072012,6200,1,Office Hours,industry_facility,Work_days,0,2,0,100
+618960-17072012,6200,2,Night-time,industry_facility,Work_days,0,2,0,100
+618963-17072012,6200,1,Night-time,apartment,Work_days,0,21,0,100
+618980-17072012,6110,1,Night-time,public_facility,Work_days,0,5,0,100
+619240-17072012,6100,2,Office Hours,rest_home,Work_days,0,9,0,100
+619318-17072012,6110,1,Office Hours,others,Work_days,0,24,0,100
+619324-17072012,6990,2,Office Hours,apartment,Work_days,0,18,0,100
+619329-17072012,6990,3,Office Hours,apartment,Work_days,0,7,0,100
+619332-17072012,6990,4,Office Hours,apartment,Work_days,0,3,0,100
+619334-17072012,6990,5,Cooking-time,apartment,Work_days,0,2,0,100
+619336-17072012,6990,6,Cooking-time,apartment,Work_days,0,1,0,100
+619344-17072012,6990,7,Cooking-time,apartment,Work_days,0,1,0,100
+619378-17072012,1100,1,Cooking-time,shopping_mall,Work_days,0,22,0,100
+619610-18072012,6990,8,Cooking-time,apartment,Work_days,0,1,0,100
+620110-19072012,1100,0,Office Hours,hotel,Work_days,0,29,0,100
+620336-19072012,6990,2,Cooking-time,school,Work_days,0,5,0,100
+620418-19072012,6990,3,Cooking-time,school,Work_days,0,1,0,100
+620475-20072012,1100,1,Night-time,office,Work_days,0,13,0,100
+620889-20072012,1100,0,Cooking-time,restaurant,Work_days,0,8,0,100
+620945-20072012,6900,2,Cooking-time,hospital,Work_days,0,36,0,100
+621071-21072012,6200,0,Night-time,office,Week_ends,0,16,0,100
+621079-21072012,6200,1,Night-time,office,Week_ends,0,5,0,100
+621108-21072012,6990,0,Cooking-time,industry_facility,Week_ends,0,74,0,100
+621267-21072012,6110,1,Cooking-time,school,Week_ends,0,30,0,100
+621298-21072012,6100,1,Office Hours,office,Week_ends,0,7,0,100
+621302-21072012,6110,2,Office Hours,school,Week_ends,0,3,0,100
+621388-21072012,7110,0,Cooking-time,others,Week_ends,0,3,0,100
+621509-21072012,6990,1,Night-time,public_facility,Week_ends,0,33,0,100
+621568-22072012,6110,0,Night-time,public_facility,Week_ends,0,17,0,100
+621628-22072012,1200,0,Night-time,apartment,Week_ends,0,1,0,100
+621641-22072012,1100,1,Cooking-time,apartment,Week_ends,0,5,0,100
+621642-22072012,1200,1,Cooking-time,apartment,Week_ends,0,1,0,100
+621790-22072012,6900,2,Cooking-time,hospital,Week_ends,0,10,0,100
+621821-22072012,6990,2,Cooking-time,hospital,Week_ends,0,12,0,100
+622308-23072012,6100,1,Office Hours,public_facility,Work_days,0,41,0,100
+622349-23072012,6990,1,Office Hours,office,Work_days,0,71,0,100
+622375-23072012,1100,0,Office Hours,tansport,Work_days,0,19,0,100
+622533-24072012,1900,0,Night-time,others,Work_days,0,22,0,100
+622650-24072012,6110,0,Office Hours,shopping_mall,Work_days,0,22,0,100
+622656-24072012,6100,3,Office Hours,rest_home,Work_days,0,2,0,100
+622802-24072012,6990,2,Office Hours,office,Work_days,0,15,0,100
+623010-25072012,1100,1,Night-time,school,Work_days,0,21,0,100
+623059-25072012,6900,2,Cooking-time,rest_home,Work_days,0,18,0,100
+623214-25072012,1370,0,Cooking-time,others,Work_days,0,1,0,100
+624042-27072012,1120,1,Night-time,others,Work_days,0,7,0,100
+624151-27072012,1120,2,Cooking-time,others,Work_days,0,1,0,100
+624312-27072012,6200,0,Office Hours,house,Work_days,0,16,0,100
+624492-27072012,6990,1,Night-time,office,Work_days,0,58,0,100
+624537-28072012,6990,2,Night-time,office,Week_ends,0,7,0,100
+624539-28072012,1100,0,Night-time,house,Week_ends,0,3,0,100
+624540-28072012,6100,0,Night-time,house,Week_ends,0,13,0,100
+624582-28072012,6990,3,Night-time,office,Week_ends,0,2,0,100
+624621-28072012,6990,4,Night-time,office,Week_ends,0,1,0,100
+624624-28072012,6900,1,Night-time,shopping_mall,Week_ends,0,27,0,100
+624628-28072012,6990,0,Night-time,house,Week_ends,0,15,0,100
+624629-28072012,6990,1,Night-time,hotel,Week_ends,0,31,0,100
+624717-28072012,6990,2,Office Hours,hotel,Week_ends,0,8,0,100
+624876-28072012,6900,1,Office Hours,office,Week_ends,0,9,0,100
+624901-28072012,6200,1,Office Hours,shopping_mall,Week_ends,0,13,0,100
+624908-28072012,6200,0,Office Hours,tansport,Week_ends,0,5,0,100
+624981-28072012,1100,1,Cooking-time,others,Week_ends,0,30,0,100
+625028-28072012,1100,2,Cooking-time,others,Week_ends,0,6,0,100
+625126-29072012,6900,1,Night-time,school,Week_ends,0,36,0,100
+625161-29072012,6900,2,Night-time,office,Week_ends,0,4,0,100
+625471-29072012,6990,1,Office Hours,public_facility,Week_ends,0,19,0,100
+625663-30072012,6200,1,Night-time,hotel,Work_days,0,12,0,100
+625668-30072012,0,0,Night-time,hospital,Work_days,0,3,0,100
+625734-30072012,6990,2,Cooking-time,public_facility,Work_days,0,9,0,100
+626267-31072012,1120,0,Night-time,hotel,Work_days,0,3,0,100
+626340-31072012,6100,1,Cooking-time,shopping_mall,Work_days,0,56,0,100
+626364-31072012,6110,0,Office Hours,industry_facility,Work_days,0,24,0,100
+626426-31072012,6990,3,Cooking-time,hospital,Work_days,0,17,0,100
+626544-31072012,6100,3,Office Hours,others,Work_days,0,5,0,100
+626716-31072012,6100,4,Cooking-time,others,Work_days,0,4,0,100
+626786-01082012,6100,5,Night-time,others,Work_days,0,3,0,100
+627055-01082012,1200,0,Office Hours,office,Work_days,0,2,0,100
+627197-01082012,1200,1,Cooking-time,office,Work_days,0,1,0,100
+627205-01082012,6110,1,Cooking-time,industry_facility,Work_days,0,9,0,100
+627266-01082012,1200,2,Cooking-time,office,Work_days,0,1,0,100
+627308-02082012,1200,3,Night-time,others,Work_days,0,1,0,100
+627325-02082012,6100,6,Night-time,others,Work_days,0,1,0,100
+627383-02082012,6100,0,Cooking-time,restaurant,Work_days,0,23,0,100
+627652-02082012,6100,7,Office Hours,others,Work_days,0,1,0,100
+627694-02082012,6990,3,Office Hours,shopping_mall,Work_days,0,4,0,100
+627812-02082012,1200,4,Cooking-time,office,Work_days,0,1,0,100
+627881-03082012,6990,2,Night-time,public_facility,Work_days,0,13,0,100
+627895-03082012,6100,8,Night-time,others,Work_days,0,1,0,100
+627919-03082012,6990,3,Night-time,public_facility,Work_days,0,4,0,100
+628616-04082012,6100,2,Night-time,others,Week_ends,0,20,0,100
+628695-04082012,6100,1,Office Hours,hotel,Week_ends,0,11,0,100
+628745-04082012,6200,1,Office Hours,hospital,Week_ends,0,2,0,100
+628766-04082012,6990,1,Office Hours,office,Week_ends,0,21,0,100
+629238-04082012,6990,3,Cooking-time,shopping_mall,Week_ends,0,8,0,100
+629438-05082012,6990,4,Night-time,shopping_mall,Week_ends,0,1,0,100
+629467-05082012,6990,5,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+629576-05082012,6900,1,Office Hours,hospital,Week_ends,0,21,0,100
+630177-06082012,6110,2,Office Hours,school,Work_days,0,21,0,100
+630369-06082012,7110,0,Office Hours,others,Work_days,0,3,0,100
+630784-07082012,6110,3,Cooking-time,school,Work_days,0,13,0,100
+630807-07082012,6990,1,Cooking-time,hospital,Work_days,0,127,0,100
+631001-07082012,6100,1,Cooking-time,industry_facility,Work_days,0,7,0,100
+631412-08082012,6100,0,Night-time,house,Work_days,0,43,0,100
+632051-09082012,6900,1,Night-time,public_facility,Work_days,0,42,0,100
+632304-09082012,6990,3,Cooking-time,shopping_mall,Work_days,0,10,0,100
+632694-09082012,6990,2,Cooking-time,office,Work_days,0,15,0,100
+632812-10082012,6200,1,Night-time,rest_home,Work_days,0,11,0,100
+632818-10082012,6990,4,Night-time,shopping_mall,Work_days,0,3,0,100
+632839-10082012,6990,5,Night-time,shopping_mall,Work_days,0,1,0,100
+633098-10082012,6110,1,Cooking-time,public_facility,Work_days,0,24,0,100
+634101-11082012,6900,1,Night-time,rest_home,Week_ends,0,27,0,100
+634103-11082012,6900,2,Night-time,rest_home,Week_ends,0,3,0,100
+634119-11082012,6200,0,Cooking-time,industry_facility,Week_ends,0,9,0,100
+634199-11082012,6100,2,Office Hours,apartment,Week_ends,0,2,0,100
+634291-11082012,6110,0,Cooking-time,office,Week_ends,0,29,0,100
+634407-11082012,6100,0,Office Hours,restaurant,Week_ends,0,4,0,100
+634564-11082012,6900,1,Cooking-time,industry_facility,Week_ends,0,12,0,100
+634600-11082012,6100,1,Cooking-time,shopping_mall,Week_ends,0,21,0,100
+634684-11082012,6900,1,Cooking-time,restaurant,Week_ends,0,3,0,100
+634746-11082012,6990,0,Night-time,restaurant,Week_ends,0,11,0,100
+634758-11082012,6200,1,Night-time,apartment,Week_ends,0,11,0,100
+634777-11082012,1100,2,Night-time,others,Week_ends,0,10,0,100
+634857-12082012,6200,1,Night-time,rest_home,Week_ends,0,2,0,100
+634868-12082012,1100,3,Night-time,others,Week_ends,0,4,0,100
+634883-12082012,6900,2,Night-time,shopping_mall,Week_ends,0,8,0,100
+635306-12082012,6200,1,Cooking-time,apartment,Week_ends,0,17,0,100
+635333-12082012,6120,0,Cooking-time,industry_facility,Week_ends,0,3,0,100
+635379-12082012,1100,4,Cooking-time,others,Week_ends,0,1,0,100
+635850-13082012,1100,2,Office Hours,others,Work_days,0,5,0,100
+635852-13082012,6100,2,Office Hours,others,Work_days,0,31,0,100
+635857-13082012,6100,2,Office Hours,hospital,Work_days,0,20,0,100
+636048-14082012,1100,2,Night-time,others,Work_days,0,22,0,100
+636072-14082012,1100,3,Night-time,others,Work_days,0,10,0,100
+636182-14082012,6100,1,Cooking-time,house,Work_days,0,10,0,100
+637517-16082012,1190,0,Cooking-time,office,Work_days,0,1,0,100
+638133-17082012,6900,1,Night-time,hotel,Work_days,0,39,0,100
+638388-17082012,6110,2,Cooking-time,public_facility,Work_days,0,3,0,100
+638961-17082012,6110,3,Night-time,public_facility,Work_days,0,1,0,100
+639005-18082012,6110,4,Night-time,public_facility,Week_ends,0,1,0,100
+639070-18082012,6200,0,Cooking-time,rest_home,Week_ends,0,37,0,100
+639073-18082012,6990,1,Cooking-time,office,Week_ends,0,35,0,100
+639109-18082012,6900,1,Cooking-time,office,Week_ends,0,23,0,100
+639490-18082012,6900,1,Office Hours,rest_home,Week_ends,0,16,0,100
+639817-19082012,1100,0,Night-time,restaurant,Week_ends,0,5,0,100
+639831-19082012,6900,1,Night-time,public_facility,Week_ends,0,16,0,100
+639900-19082012,6200,0,Cooking-time,house,Week_ends,0,9,0,100
+640261-19082012,6900,0,Office Hours,industry_facility,Week_ends,0,34,0,100
+641206-21082012,6100,1,Night-time,shopping_mall,Work_days,0,45,0,100
+641422-21082012,6110,1,Cooking-time,rest_home,Work_days,0,6,0,100
+641482-21082012,1200,0,Cooking-time,apartment,Work_days,0,1,0,100
+642032-22082012,0,0,Office Hours,apartment,Work_days,0,5,0,100
+642400-22082012,6100,3,Cooking-time,hospital,Work_days,0,9,0,100
+642430-22082012,6100,4,Cooking-time,hospital,Work_days,0,4,0,100
+643386-23082012,6100,2,Cooking-time,rest_home,Work_days,0,10,0,100
+643451-23082012,6100,3,Cooking-time,rest_home,Work_days,0,6,0,100
+643809-24082012,6900,2,Office Hours,rest_home,Work_days,0,9,0,100
+644239-25082012,1120,0,Cooking-time,apartment,Week_ends,0,1,0,100
+644555-25082012,6100,0,Office Hours,house,Week_ends,0,15,0,100
+644567-25082012,6100,2,Office Hours,others,Week_ends,0,12,0,100
+644735-25082012,6100,3,Cooking-time,others,Week_ends,0,10,0,100
+644757-25082012,6100,4,Cooking-time,others,Week_ends,0,3,0,100
+644809-25082012,6110,1,Cooking-time,public_facility,Week_ends,0,9,0,100
+644864-25082012,6110,2,Cooking-time,public_facility,Week_ends,0,1,0,100
+644906-25082012,6110,1,Night-time,others,Week_ends,0,15,0,100
+645095-26082012,6100,1,Office Hours,industry_facility,Week_ends,0,4,0,100
+645111-26082012,6110,0,Office Hours,hospital,Week_ends,0,6,0,100
+645119-26082012,6100,1,Office Hours,apartment,Week_ends,0,25,0,100
+645140-26082012,6100,2,Office Hours,industry_facility,Week_ends,0,1,0,100
+645831-27082012,6990,1,Cooking-time,rest_home,Work_days,0,80,0,100
+645891-27082012,6990,2,Cooking-time,rest_home,Work_days,0,7,0,100
+646591-28082012,6990,3,Office Hours,others,Work_days,0,15,0,100
+646614-28082012,6990,4,Office Hours,others,Work_days,0,9,0,100
+646972-29082012,6990,6,Cooking-time,others,Work_days,0,8,0,100
+648505-30082012,6110,1,Night-time,school,Work_days,0,44,0,100
+648630-31082012,1120,3,Cooking-time,others,Work_days,0,1,0,100
+648702-31082012,6900,3,Office Hours,hospital,Work_days,0,6,0,100
+648870-31082012,6200,2,Cooking-time,others,Work_days,0,7,0,100
+649184-01092012,1900,1,Night-time,others,Week_ends,0,3,0,100
+649287-01092012,1900,0,Night-time,industry_facility,Week_ends,0,1,0,100
+649288-01092012,1120,0,Night-time,others,Week_ends,0,18,0,100
+649314-01092012,1100,0,Cooking-time,restaurant,Week_ends,0,6,0,100
+649324-01092012,6900,1,Cooking-time,rest_home,Week_ends,0,41,0,100
+649472-01092012,1100,0,Office Hours,hotel,Week_ends,0,5,0,100
+649480-01092012,6990,3,Office Hours,others,Week_ends,0,4,0,100
+649644-01092012,6290,0,Cooking-time,school,Week_ends,0,2,0,100
+649774-01092012,6990,4,Office Hours,others,Week_ends,0,2,0,100
+649822-01092012,6110,0,Office Hours,rest_home,Week_ends,0,2,0,100
+650022-01092012,6990,0,Cooking-time,restaurant,Week_ends,0,11,0,100
+650023-01092012,6110,0,Cooking-time,hotel,Week_ends,0,27,0,100
+650413-02092012,6200,0,Office Hours,public_facility,Week_ends,0,28,0,100
+650467-02092012,6990,0,Cooking-time,tansport,Week_ends,0,17,0,100
+650652-02092012,1100,0,Office Hours,tansport,Week_ends,0,6,0,100
+650814-02092012,1120,0,Cooking-time,hotel,Week_ends,0,1,0,100
+651617-03092012,6900,1,Cooking-time,house,Work_days,0,13,0,100
+651966-04092012,6200,0,Night-time,public_facility,Work_days,0,60,0,100
+652087-04092012,6900,2,Office Hours,house,Work_days,0,1,0,100
+652093-04092012,1100,1,Office Hours,office,Work_days,0,6,0,100
+652106-04092012,1100,2,Office Hours,office,Work_days,0,1,0,100
+653376-05092012,6100,3,Cooking-time,others,Work_days,0,17,0,100
+653653-05092012,1100,1,Office Hours,shopping_mall,Work_days,0,9,0,100
+653664-05092012,1100,1,Cooking-time,public_facility,Work_days,0,13,0,100
+653703-05092012,1900,1,Cooking-time,others,Work_days,0,8,0,100
+653741-05092012,6100,2,Cooking-time,hotel,Work_days,0,11,0,100
+653868-05092012,6100,3,Cooking-time,hotel,Work_days,0,3,0,100
+653912-05092012,1100,2,Night-time,public_facility,Work_days,0,3,0,100
+653976-06092012,6990,4,Night-time,apartment,Work_days,0,1,0,100
+654301-06092012,6900,1,Office Hours,industry_facility,Work_days,0,16,0,100
+655154-07092012,0,0,Night-time,hotel,Work_days,0,5,0,100
+655863-07092012,0,1,Cooking-time,public_facility,Work_days,0,1,0,100
+655974-07092012,1100,2,Cooking-time,public_facility,Work_days,0,3,0,100
+657306-08092012,6200,0,Night-time,public_facility,Week_ends,0,27,0,100
+657376-09092012,6200,0,Night-time,tansport,Week_ends,0,5,0,100
+657419-09092012,6100,2,Night-time,tansport,Week_ends,0,2,0,100
+657446-09092012,6100,3,Night-time,tansport,Week_ends,0,1,0,100
+657467-09092012,6110,0,Cooking-time,shopping_mall,Week_ends,0,6,0,100
+657539-09092012,6110,1,Office Hours,shopping_mall,Week_ends,0,2,0,100
+657544-09092012,6100,4,Office Hours,tansport,Week_ends,0,1,0,100
+657941-09092012,0,0,Cooking-time,hospital,Week_ends,0,4,0,100
+658299-09092012,6990,2,Cooking-time,others,Week_ends,0,46,0,100
+658779-10092012,0,0,Cooking-time,shopping_mall,Work_days,0,2,0,100
+659379-11092012,6100,2,Cooking-time,shopping_mall,Work_days,0,14,0,100
+659507-11092012,6900,2,Cooking-time,school,Work_days,0,42,0,100
+659894-11092012,6200,1,Night-time,others,Work_days,0,21,0,100
+659927-12092012,6900,3,Night-time,school,Work_days,0,5,0,100
+660022-12092012,6900,4,Cooking-time,school,Work_days,0,3,0,100
+660440-12092012,6100,2,Office Hours,apartment,Work_days,0,11,0,100
+660603-12092012,6990,1,Night-time,rest_home,Work_days,0,51,0,100
+660822-13092012,6100,3,Office Hours,apartment,Work_days,0,2,0,100
+660831-13092012,1100,1,Office Hours,apartment,Work_days,0,10,0,100
+661099-13092012,6990,2,Office Hours,rest_home,Work_days,0,4,0,100
+661162-13092012,6990,3,Cooking-time,others,Work_days,0,38,0,100
+661263-14092012,1100,1,Night-time,hotel,Work_days,0,6,0,100
+661275-14092012,1100,2,Night-time,hotel,Work_days,0,3,0,100
+661276-14092012,1100,3,Night-time,hotel,Work_days,0,1,0,100
+661282-14092012,1100,4,Night-time,hotel,Work_days,0,1,0,100
+661346-14092012,0,1,Cooking-time,others,Work_days,0,1,0,100
+661785-14092012,6900,4,Cooking-time,office,Work_days,0,1,0,100
+661790-14092012,6900,5,Cooking-time,office,Work_days,0,1,0,100
+661917-15092012,6990,2,Night-time,rest_home,Week_ends,0,5,0,100
+661973-15092012,6990,1,Night-time,hospital,Week_ends,0,21,0,100
+661987-15092012,6900,6,Night-time,office,Week_ends,0,1,0,100
+662003-15092012,6900,7,Cooking-time,office,Week_ends,0,1,0,100
+662157-15092012,6200,0,Office Hours,hospital,Week_ends,0,13,0,100
+662162-15092012,6900,8,Office Hours,office,Week_ends,0,1,0,100
+662272-15092012,0,0,Cooking-time,house,Week_ends,0,2,0,100
+662531-15092012,6900,9,Cooking-time,office,Week_ends,0,1,0,100
+662616-15092012,6100,1,Night-time,hotel,Week_ends,0,9,0,100
+662782-16092012,0,1,Cooking-time,public_facility,Week_ends,0,1,0,100
+662889-16092012,0,0,Office Hours,hospital,Week_ends,0,2,0,100
+663019-16092012,0,1,Cooking-time,others,Week_ends,0,1,0,100
+663202-16092012,1100,0,Office Hours,shopping_mall,Week_ends,0,39,0,100
+663214-16092012,6900,0,Office Hours,restaurant,Week_ends,0,9,0,100
+663277-16092012,6200,1,Cooking-time,shopping_mall,Week_ends,0,20,0,100
+663398-16092012,0,0,Night-time,others,Week_ends,0,4,0,100
+663405-16092012,1100,0,Night-time,industry_facility,Week_ends,0,12,0,100
+664192-18092012,1120,0,Office Hours,hotel,Work_days,0,4,0,100
+664209-18092012,6900,1,Office Hours,public_facility,Work_days,0,36,0,100
+664420-18092012,1120,2,Office Hours,others,Work_days,0,1,0,100
+664511-18092012,1100,2,Cooking-time,office,Work_days,0,3,0,100
+664657-19092012,1120,1,Night-time,hotel,Work_days,0,1,0,100
+664716-19092012,6900,3,Night-time,public_facility,Work_days,0,2,0,100
+665808-20092012,6990,2,Office Hours,industry_facility,Work_days,0,4,0,100
+666062-21092012,6100,1,Night-time,office,Work_days,0,31,0,100
+666718-22092012,6200,0,Night-time,shopping_mall,Week_ends,0,32,0,100
+667404-22092012,6100,2,Cooking-time,hospital,Week_ends,0,11,0,100
+667445-22092012,1100,1,Cooking-time,hotel,Week_ends,0,4,0,100
+667939-23092012,1100,0,Office Hours,office,Week_ends,0,13,0,100
+668093-23092012,1100,2,Cooking-time,hotel,Week_ends,0,1,0,100
+668175-23092012,0,0,Night-time,public_facility,Week_ends,0,2,0,100
+668413-24092012,6900,2,Cooking-time,hotel,Work_days,0,11,0,100
+668414-24092012,6900,3,Cooking-time,hotel,Work_days,0,4,0,100
+668416-24092012,6900,4,Cooking-time,hotel,Work_days,0,1,0,100
+669088-24092012,6200,1,Night-time,office,Work_days,0,9,0,100
+669832-26092012,1900,0,Night-time,apartment,Work_days,0,15,0,100
+669917-26092012,6990,3,Cooking-time,rest_home,Work_days,0,2,0,100
+669921-26092012,6990,4,Cooking-time,rest_home,Work_days,0,1,0,100
+669923-26092012,6200,1,Cooking-time,rest_home,Work_days,0,11,0,100
+669995-26092012,6900,2,Office Hours,apartment,Work_days,0,15,0,100
+671347-27092012,6900,3,Night-time,rest_home,Work_days,0,5,0,100
+671444-28092012,6900,3,Night-time,hospital,Work_days,0,8,0,100
+671454-28092012,6900,4,Night-time,hospital,Work_days,0,3,0,100
+671463-28092012,6900,5,Night-time,hospital,Work_days,0,1,0,100
+671475-28092012,6900,6,Night-time,hospital,Work_days,0,2,0,100
+671480-28092012,6900,7,Night-time,hospital,Work_days,0,1,0,100
+671483-28092012,6900,8,Night-time,hospital,Work_days,0,1,0,100
+671487-28092012,6900,9,Night-time,hospital,Work_days,0,1,0,100
+671909-28092012,6900,10,Cooking-time,hospital,Work_days,0,1,0,100
+671932-28092012,6900,11,Cooking-time,hospital,Work_days,0,1,0,100
+671958-28092012,6900,3,Office Hours,rest_home,Work_days,0,2,0,100
+672489-29092012,6100,1,Night-time,office,Week_ends,0,12,0,100
+672504-29092012,6990,1,Night-time,rest_home,Week_ends,0,14,0,100
+672507-29092012,6200,1,Cooking-time,others,Week_ends,0,12,0,100
+672555-29092012,6990,2,Cooking-time,rest_home,Week_ends,0,6,0,100
+672607-29092012,6900,2,Office Hours,others,Week_ends,0,20,0,100
+672838-29092012,6200,1,Office Hours,others,Week_ends,0,9,0,100
+672864-29092012,6200,2,Office Hours,others,Week_ends,0,1,0,100
+672889-29092012,1900,0,Office Hours,others,Week_ends,0,9,0,100
+673129-29092012,1100,0,Night-time,tansport,Week_ends,0,12,0,100
+673280-30092012,1100,1,Night-time,office,Week_ends,0,5,0,100
+673398-30092012,6990,1,Cooking-time,rest_home,Week_ends,0,26,0,100
+673549-30092012,0,0,Cooking-time,school,Week_ends,0,4,0,100
+673556-30092012,6100,2,Cooking-time,school,Week_ends,0,6,0,100
+673558-30092012,6100,3,Cooking-time,school,Week_ends,0,6,0,100
+673559-30092012,6100,4,Cooking-time,school,Week_ends,0,3,0,100
+673560-30092012,6100,5,Cooking-time,school,Week_ends,0,4,0,100
+673893-30092012,6200,1,Cooking-time,public_facility,Week_ends,0,6,0,100
+673936-30092012,6990,1,Cooking-time,house,Week_ends,0,10,0,100
+674358-01102012,6990,2,Office Hours,public_facility,Work_days,0,6,0,100
+674655-01102012,6120,0,Cooking-time,others,Work_days,0,3,0,100
+675980-03102012,6200,1,Office Hours,house,Work_days,0,3,0,100
+676271-03102012,6900,2,Night-time,shopping_mall,Work_days,0,5,0,100
+676303-04102012,6900,3,Night-time,shopping_mall,Work_days,0,3,0,100
+676365-04102012,6900,4,Night-time,shopping_mall,Work_days,0,2,0,100
+676804-04102012,6100,1,Office Hours,industry_facility,Work_days,0,6,0,100
+677158-04102012,6110,1,Night-time,office,Work_days,0,3,0,100
+678156-05102012,6990,1,Office Hours,house,Work_days,0,8,0,100
+678532-06102012,6200,1,Night-time,shopping_mall,Week_ends,0,9,0,100
+678586-06102012,6200,1,Night-time,hotel,Week_ends,0,4,0,100
+678627-06102012,1120,0,Cooking-time,others,Week_ends,0,16,0,100
+678812-06102012,6900,1,Cooking-time,house,Week_ends,0,2,0,100
+679050-06102012,6110,2,Office Hours,others,Week_ends,0,1,0,100
+679159-06102012,6200,2,Cooking-time,shopping_mall,Week_ends,0,4,0,100
+679312-06102012,6900,3,Night-time,hospital,Week_ends,0,3,0,100
+679656-07102012,6990,2,Cooking-time,shopping_mall,Week_ends,0,12,0,100
+680455-08102012,1900,0,Office Hours,others,Work_days,0,12,0,100
+680593-08102012,6990,4,Cooking-time,hospital,Work_days,0,5,0,100
+681404-10102012,6200,4,Night-time,shopping_mall,Work_days,0,2,0,100
+682963-12102012,6900,2,Cooking-time,shopping_mall,Work_days,0,11,0,100
+683223-13102012,1900,0,Cooking-time,others,Week_ends,0,10,0,100
+683345-13102012,6990,2,Cooking-time,house,Week_ends,0,2,0,100
+683838-14102012,6110,0,Office Hours,house,Week_ends,0,1,0,100
+683991-14102012,6110,1,Office Hours,rest_home,Week_ends,0,1,0,100
+684230-14102012,6100,1,Night-time,shopping_mall,Week_ends,0,20,0,100
+684270-14102012,1100,1,Night-time,shopping_mall,Week_ends,0,7,0,100
+684284-15102012,1100,1,Night-time,apartment,Work_days,0,15,0,100
+684564-15102012,1100,1,Cooking-time,school,Work_days,0,35,0,100
+684628-15102012,6200,1,Office Hours,school,Work_days,0,15,0,100
+684629-15102012,6200,2,Office Hours,school,Work_days,0,4,0,100
+684927-16102012,6200,2,Night-time,others,Work_days,0,3,0,100
+684928-16102012,1900,1,Night-time,apartment,Work_days,0,1,0,100
+684934-16102012,6110,0,Night-time,shopping_mall,Work_days,0,13,0,100
+684949-16102012,6200,3,Night-time,others,Work_days,0,3,0,100
+685522-16102012,1170,0,Cooking-time,others,Work_days,0,3,0,100
+685572-16102012,6900,1,Cooking-time,restaurant,Work_days,0,8,0,100
+685785-17102012,1120,0,Cooking-time,hospital,Work_days,0,7,0,100
+685904-17102012,6990,0,Cooking-time,restaurant,Work_days,0,26,0,100
+687975-20102012,6110,0,Night-time,rest_home,Week_ends,0,4,0,100
+688175-20102012,6100,1,Office Hours,school,Week_ends,0,12,0,100
+688588-20102012,1100,1,Cooking-time,shopping_mall,Week_ends,0,8,0,100
+688709-20102012,1100,2,Office Hours,shopping_mall,Week_ends,0,1,0,100
+689043-21102012,6990,2,Night-time,shopping_mall,Week_ends,0,6,0,100
+689078-21102012,6120,0,Night-time,others,Week_ends,0,5,0,100
+689149-21102012,1900,0,Cooking-time,apartment,Week_ends,0,3,0,100
+689845-22102012,6900,4,Night-time,others,Work_days,0,8,0,100
+689862-22102012,6110,2,Night-time,school,Work_days,0,17,0,100
+689869-22102012,6110,3,Night-time,school,Work_days,0,4,0,100
+689881-22102012,6110,4,Night-time,school,Work_days,0,3,0,100
+690003-22102012,1900,0,Office Hours,shopping_mall,Work_days,0,2,0,100
+690496-22102012,6900,1,Cooking-time,tansport,Work_days,0,33,0,100
+690716-23102012,6990,4,Cooking-time,others,Work_days,0,10,0,100
+692088-25102012,6900,1,Night-time,restaurant,Work_days,0,4,0,100
+692118-25102012,1100,4,Cooking-time,others,Work_days,0,3,0,100
+693566-26102012,6100,2,Cooking-time,apartment,Work_days,0,23,0,100
+693567-26102012,6110,0,Cooking-time,house,Work_days,0,10,0,100
+693757-27102012,6100,3,Night-time,rest_home,Week_ends,0,2,0,100
+693846-27102012,1120,0,Cooking-time,shopping_mall,Week_ends,0,2,0,100
+693965-27102012,6110,0,Office Hours,industry_facility,Week_ends,0,11,0,100
+694959-28102012,6200,1,Office Hours,public_facility,Week_ends,0,3,0,100
+695061-28102012,6100,2,Office Hours,rest_home,Week_ends,0,3,0,100
+695157-28102012,6990,2,Cooking-time,hotel,Week_ends,0,9,0,100
+695373-29102012,6990,2,Night-time,office,Work_days,0,11,0,100
+695499-29102012,6200,1,Office Hours,office,Work_days,0,3,0,100
+695517-29102012,6200,2,Office Hours,others,Work_days,0,2,0,100
+696550-30102012,6200,2,Cooking-time,office,Work_days,0,2,0,100
+697576-01112012,1200,0,Cooking-time,public_facility,Work_days,0,3,0,100
+699255-03112012,6200,1,Night-time,hospital,Week_ends,0,1,0,100
+699373-03112012,6990,3,Night-time,others,Week_ends,0,3,0,100
+699408-03112012,6900,3,Night-time,school,Week_ends,0,3,0,100
+699445-03112012,6990,2,Cooking-time,office,Week_ends,0,6,0,100
+699560-03112012,6990,1,Office Hours,school,Week_ends,0,20,0,100
+700095-04112012,6100,1,Night-time,public_facility,Week_ends,0,21,0,100
+700182-04112012,6200,0,Cooking-time,school,Week_ends,0,28,0,100
+700237-04112012,6200,1,Office Hours,school,Week_ends,0,4,0,100
+700893-05112012,6100,2,Night-time,rest_home,Work_days,0,8,0,100
+701556-06112012,6100,1,Night-time,house,Work_days,0,11,0,100
+701632-06112012,1900,0,Cooking-time,public_facility,Work_days,0,4,0,100
+701774-06112012,1100,2,Cooking-time,apartment,Work_days,0,5,0,100
+702255-07112012,6990,3,Night-time,shopping_mall,Work_days,0,10,0,100
+702272-07112012,6900,1,Night-time,tansport,Work_days,0,22,0,100
+702303-07112012,6200,2,Cooking-time,shopping_mall,Work_days,0,7,0,100
+702563-07112012,6290,1,Office Hours,school,Work_days,0,1,0,100
+703054-08112012,1900,1,Office Hours,public_facility,Work_days,0,1,0,100
+703055-08112012,6120,0,Office Hours,industry_facility,Work_days,0,4,0,100
+703152-08112012,1900,2,Cooking-time,public_facility,Work_days,0,1,0,100
+703171-08112012,1900,3,Cooking-time,public_facility,Work_days,0,1,0,100
+703305-08112012,6110,2,Office Hours,public_facility,Work_days,0,1,0,100
+703678-09112012,1100,1,Night-time,house,Work_days,0,3,0,100
+704379-10112012,6110,2,Night-time,office,Week_ends,0,2,0,100
+704462-10112012,1100,0,Cooking-time,hospital,Week_ends,0,4,0,100
+704497-10112012,1160,0,Cooking-time,office,Week_ends,0,1,0,100
+704560-10112012,6200,1,Office Hours,apartment,Week_ends,0,8,0,100
+704574-10112012,6110,3,Cooking-time,office,Week_ends,0,1,0,100
+704582-10112012,6200,0,Cooking-time,hospital,Week_ends,0,32,0,100
+704985-11112012,6100,1,Night-time,rest_home,Week_ends,0,19,0,100
+705530-12112012,1100,2,Night-time,shopping_mall,Work_days,0,5,0,100
+705641-12112012,1120,1,Cooking-time,others,Work_days,0,5,0,100
+706490-13112012,1120,0,Cooking-time,hotel,Work_days,0,6,0,100
+706520-13112012,1120,1,Cooking-time,hotel,Work_days,0,1,0,100
+706931-14112012,1100,2,Night-time,apartment,Work_days,0,5,0,100
+707465-14112012,6110,0,Night-time,restaurant,Work_days,0,1,0,100
+707467-14112012,6110,1,Night-time,rest_home,Work_days,0,5,0,100
+707498-15112012,6110,2,Night-time,industry_facility,Work_days,0,2,0,100
+707561-15112012,1100,0,Night-time,tansport,Work_days,0,25,0,100
+708026-15112012,6600,0,Cooking-time,apartment,Work_days,0,2,0,100
+709432-18112012,1100,1,Night-time,hotel,Week_ends,0,3,0,100
+709493-18112012,6900,2,Cooking-time,public_facility,Week_ends,0,5,0,100
+709634-18112012,1100,0,Office Hours,rest_home,Week_ends,0,8,0,100
+709690-18112012,6990,2,Office Hours,public_facility,Week_ends,0,3,0,100
+709998-19112012,6990,4,Night-time,public_facility,Work_days,0,1,0,100
+710009-19112012,1120,0,Night-time,industry_facility,Work_days,0,3,0,100
+711067-21112012,6200,3,Night-time,shopping_mall,Work_days,0,2,0,100
+711088-21112012,1100,0,Night-time,rest_home,Work_days,0,10,0,100
+711287-21112012,1100,3,Cooking-time,shopping_mall,Work_days,0,3,0,100
+713294-24112012,7110,1,Cooking-time,public_facility,Week_ends,0,1,0,100
+713390-24112012,6990,1,Office Hours,industry_facility,Week_ends,0,7,0,100
+713414-24112012,6100,2,Office Hours,tansport,Week_ends,0,1,0,100
+713667-24112012,6100,3,Cooking-time,tansport,Week_ends,0,1,0,100
+713869-25112012,7110,2,Night-time,public_facility,Week_ends,0,1,0,100
+713929-25112012,6110,2,Cooking-time,school,Week_ends,0,7,0,100
+714028-25112012,6200,0,Office Hours,house,Week_ends,0,3,0,100
+714070-25112012,1100,0,Office Hours,industry_facility,Week_ends,0,4,0,100
+714238-25112012,1170,0,Cooking-time,industry_facility,Week_ends,0,2,0,100
+714349-25112012,1200,0,Office Hours,others,Week_ends,0,2,0,100
+714421-25112012,6120,0,Office Hours,industry_facility,Week_ends,0,5,0,100
+714900-26112012,6990,0,Night-time,restaurant,Work_days,0,16,0,100
+715355-26112012,6900,3,Cooking-time,apartment,Work_days,0,6,0,100
+716275-27112012,6110,2,Night-time,others,Work_days,0,4,0,100
+716564-28112012,6110,1,Cooking-time,shopping_mall,Work_days,0,3,0,100
+717352-29112012,6100,1,Cooking-time,tansport,Work_days,0,20,0,100
+717868-30112012,6900,3,Office Hours,others,Work_days,0,8,0,100
+718046-30112012,1100,1,Cooking-time,industry_facility,Work_days,0,2,0,100
+718377-30112012,6100,2,Night-time,public_facility,Work_days,0,9,0,100
+718593-01122012,6110,1,Night-time,school,Week_ends,0,15,0,100
+718671-01122012,6900,4,Cooking-time,others,Week_ends,0,6,0,100
+718729-01122012,6100,2,Office Hours,public_facility,Week_ends,0,2,0,100
+718944-01122012,6110,0,Office Hours,hotel,Week_ends,0,12,0,100
+718990-01122012,6110,1,Office Hours,hotel,Week_ends,0,2,0,100
+719078-01122012,6110,2,Cooking-time,hotel,Week_ends,0,1,0,100
+719353-02122012,6100,2,Night-time,apartment,Week_ends,0,5,0,100
+719876-03122012,1120,0,Night-time,office,Work_days,0,7,0,100
+719887-03122012,1160,0,Night-time,office,Work_days,0,1,0,100
+720037-03122012,6200,1,Office Hours,shopping_mall,Work_days,0,14,0,100
+720486-04122012,6900,2,Night-time,office,Work_days,0,1,0,100
+721328-04122012,6200,0,Night-time,house,Work_days,0,14,0,100
+721428-05122012,1170,0,Night-time,industry_facility,Work_days,0,3,0,100
+721427-05122012,6120,0,Night-time,industry_facility,Work_days,0,3,0,100
+721590-05122012,6900,2,Office Hours,hospital,Work_days,0,12,0,100
+721800-05122012,6200,1,Cooking-time,hotel,Work_days,0,20,0,100
+722188-05122012,6100,1,Office Hours,shopping_mall,Work_days,0,32,0,100
+722516-05122012,6900,5,Night-time,others,Work_days,0,4,0,100
+722592-06122012,6900,6,Night-time,others,Work_days,0,3,0,100
+722656-06122012,6900,7,Cooking-time,others,Work_days,0,2,0,100
+722684-06122012,6900,8,Cooking-time,others,Work_days,0,3,0,100
+723620-07122012,1120,0,Office Hours,industry_facility,Work_days,0,7,0,100
+724199-08122012,6200,1,Night-time,school,Week_ends,0,7,0,100
+724512-08122012,6200,1,Cooking-time,house,Week_ends,0,2,0,100
+724574-08122012,6100,2,Office Hours,hospital,Week_ends,0,7,0,100
+724698-08122012,6110,0,Cooking-time,restaurant,Week_ends,0,1,0,100
+724707-08122012,6200,1,Cooking-time,hospital,Week_ends,0,4,0,100
+724713-08122012,6200,2,Cooking-time,hospital,Week_ends,0,1,0,100
+725036-09122012,1100,2,Night-time,school,Week_ends,0,2,0,100
+725094-09122012,6100,2,Cooking-time,shopping_mall,Week_ends,0,3,0,100
+725131-09122012,6100,2,Cooking-time,industry_facility,Week_ends,0,1,0,100
+725494-09122012,1100,0,Cooking-time,tansport,Week_ends,0,9,0,100
+726361-11122012,6100,1,Cooking-time,restaurant,Work_days,0,2,0,100
+726937-12122012,6100,1,Night-time,tansport,Work_days,0,14,0,100
+728207-13122012,1100,2,Night-time,school,Work_days,0,8,0,100
+728327-14122012,6990,3,Night-time,others,Work_days,0,30,0,100
+728957-14122012,6200,1,Night-time,hospital,Work_days,0,8,0,100
+729004-15122012,6200,2,Night-time,hospital,Week_ends,0,1,0,100
+729061-15122012,6900,3,Night-time,others,Week_ends,0,6,0,100
+729086-15122012,6200,1,Night-time,public_facility,Week_ends,0,3,0,100
+729242-15122012,6900,1,Office Hours,hotel,Week_ends,0,19,0,100
+729436-15122012,6110,0,Office Hours,shopping_mall,Week_ends,0,3,0,100
+729543-15122012,1100,1,Cooking-time,public_facility,Week_ends,0,6,0,100
+729762-16122012,6900,3,Night-time,shopping_mall,Week_ends,0,1,0,100
+730174-16122012,6990,1,Office Hours,rest_home,Week_ends,0,8,0,100
+730552-17122012,6990,3,Night-time,rest_home,Work_days,0,1,0,100
+732427-19122012,1100,3,Office Hours,public_facility,Work_days,0,1,0,100
+732434-19122012,1100,4,Office Hours,public_facility,Work_days,0,1,0,100
+732681-19122012,6990,1,Night-time,house,Work_days,0,5,0,100
+732716-19122012,6100,4,Night-time,hospital,Work_days,0,3,0,100
+732764-20122012,1100,5,Night-time,public_facility,Work_days,0,1,0,100
+733666-21122012,6110,5,Night-time,school,Work_days,0,2,0,100
+733749-21122012,6110,6,Cooking-time,school,Work_days,0,2,0,100
+734218-21122012,6110,7,Cooking-time,school,Work_days,0,1,0,100
+734355-22122012,1160,0,Night-time,office,Week_ends,0,1,0,100
+734741-22122012,6900,1,Office Hours,tansport,Week_ends,0,8,0,100
+735165-23122012,6110,0,Night-time,office,Week_ends,0,18,0,100
+735408-23122012,1120,0,Office Hours,others,Week_ends,0,3,0,100
+735528-23122012,0,0,Cooking-time,apartment,Week_ends,0,2,0,100
+735819-23122012,7110,0,Office Hours,public_facility,Week_ends,0,12,0,100
+735869-23122012,1120,1,Office Hours,others,Week_ends,0,1,0,100
+737428-25122012,6100,2,Night-time,shopping_mall,Work_days,0,16,0,100
+737925-25122012,6100,3,Night-time,shopping_mall,Work_days,0,3,0,100
+738183-26122012,6100,1,Office Hours,tansport,Work_days,0,9,0,100
+738200-26122012,6100,4,Office Hours,shopping_mall,Work_days,0,1,0,100
+738391-27122012,6100,5,Night-time,shopping_mall,Work_days,0,2,0,100
+738432-27122012,6100,6,Night-time,shopping_mall,Work_days,0,1,0,100
+738458-27122012,6990,2,Night-time,rest_home,Work_days,0,12,0,100
+738598-27122012,1900,1,Cooking-time,public_facility,Work_days,0,1,0,100
+738765-27122012,6100,7,Cooking-time,shopping_mall,Work_days,0,1,0,100
+738964-28122012,1900,2,Night-time,public_facility,Work_days,0,1,0,100
+739340-28122012,6100,8,Office Hours,shopping_mall,Work_days,0,1,0,100
+739865-29122012,6200,0,Office Hours,school,Week_ends,0,15,0,100
+739987-29122012,6200,1,Office Hours,office,Week_ends,0,2,0,100
+740036-29122012,6900,2,Office Hours,school,Week_ends,0,6,0,100
+740138-29122012,6900,3,Cooking-time,school,Week_ends,0,4,0,100
+740438-30122012,6900,4,Office Hours,school,Week_ends,0,1,0,100
+740864-30122012,6900,5,Cooking-time,school,Week_ends,0,2,0,100
+000232-01012013,6900,2,Night-time,public_facility,Work_days,0,7,0,100
+001774-03012013,6100,2,Cooking-time,public_facility,Work_days,0,12,0,100
+001792-03012013,1100,3,Cooking-time,hotel,Work_days,0,1,0,100
+002491-04012013,1120,0,Night-time,hospital,Work_days,0,3,0,100
+003198-04012013,1120,1,Night-time,hospital,Work_days,0,2,0,100
+003327-05012013,6900,1,Night-time,house,Week_ends,0,4,0,100
+003673-05012013,6990,1,Office Hours,restaurant,Week_ends,0,1,0,100
+004254-06012013,6990,2,Night-time,apartment,Week_ends,0,6,0,100
+004383-06012013,6990,2,Cooking-time,restaurant,Week_ends,0,1,0,100
+004424-06012013,6990,3,Office Hours,apartment,Week_ends,0,3,0,100
+004839-06012013,1100,1,Cooking-time,rest_home,Week_ends,0,2,0,100
+005232-07012013,1120,0,Office Hours,hospital,Work_days,0,3,0,100
+006861-08012013,6900,3,Office Hours,school,Work_days,0,7,0,100
+008018-09012013,6900,4,Night-time,school,Work_days,0,1,0,100
+008337-09012013,6900,4,Cooking-time,rest_home,Work_days,0,1,0,100
+008706-09012013,6900,5,Cooking-time,rest_home,Work_days,0,1,0,100
+008835-09012013,6900,6,Cooking-time,rest_home,Work_days,0,1,0,100
+009093-10012013,6900,1,Night-time,house,Work_days,0,7,0,100
+009098-10012013,6900,2,Night-time,house,Work_days,0,1,0,100
+009128-10012013,6990,2,Night-time,school,Work_days,0,9,0,100
+010205-11012013,6200,1,Cooking-time,public_facility,Work_days,0,17,0,100
+010585-11012013,6110,1,Cooking-time,house,Work_days,0,1,0,100
+010988-11012013,1900,2,Cooking-time,others,Work_days,0,3,0,100
+011268-12012013,6100,3,Night-time,hospital,Week_ends,0,3,0,100
+012576-13012013,1100,1,Night-time,apartment,Week_ends,0,5,0,100
+012597-13012013,1100,2,Night-time,hotel,Week_ends,0,1,0,100
+012854-13012013,1900,0,Cooking-time,public_facility,Week_ends,0,3,0,100
+013302-13012013,1100,3,Cooking-time,hotel,Week_ends,0,1,0,100
+013636-13012013,1100,4,Night-time,hotel,Week_ends,0,1,0,100
+013696-14012013,1100,5,Night-time,hotel,Work_days,0,1,0,100
+013764-14012013,1100,6,Cooking-time,hotel,Work_days,0,1,0,100
+013782-14012013,1100,7,Cooking-time,hotel,Work_days,0,1,0,100
+014862-15012013,1200,0,Cooking-time,others,Work_days,0,6,0,100
+015121-16012013,6990,3,Cooking-time,hotel,Work_days,0,7,0,100
+015150-16012013,6990,4,Cooking-time,hotel,Work_days,0,3,0,100
+015166-16012013,6900,2,Cooking-time,tansport,Work_days,0,3,0,100
+015210-16012013,1170,0,Office Hours,industry_facility,Work_days,0,1,0,100
+015529-16012013,6110,1,Cooking-time,hotel,Work_days,0,4,0,100
+016736-18012013,6990,2,Office Hours,shopping_mall,Work_days,0,13,0,100
+017237-18012013,1100,1,Cooking-time,hotel,Work_days,0,6,0,100
+017402-18012013,6100,3,Cooking-time,apartment,Work_days,0,5,0,100
+017474-18012013,6110,4,Cooking-time,apartment,Work_days,0,1,0,100
+017529-18012013,6110,0,Cooking-time,restaurant,Work_days,0,1,0,100
+018993-19012013,6990,3,Night-time,shopping_mall,Week_ends,0,1,0,100
+019108-19012013,6200,1,Cooking-time,tansport,Week_ends,0,1,0,100
+019579-19012013,1120,1,Cooking-time,others,Week_ends,0,1,0,100
+019708-20012013,6100,1,Night-time,school,Week_ends,0,20,0,100
+019932-20012013,1120,0,Office Hours,apartment,Week_ends,0,1,0,100
+020161-20012013,1200,0,Cooking-time,public_facility,Week_ends,0,1,0,100
+021195-22012013,1900,0,Cooking-time,shopping_mall,Work_days,0,2,0,100
+021862-23012013,0,0,Night-time,rest_home,Work_days,0,2,0,100
+021875-23012013,1100,1,Night-time,industry_facility,Work_days,0,1,0,100
+023344-25012013,6200,1,Night-time,school,Work_days,0,5,0,100
+023637-25012013,6200,2,Cooking-time,school,Work_days,0,2,0,100
+024115-26012013,1900,0,Night-time,others,Week_ends,0,4,0,100
+024385-26012013,6900,4,Office Hours,apartment,Week_ends,0,1,0,100
+024515-26012013,6900,5,Cooking-time,apartment,Week_ends,0,2,0,100
+025427-27012013,6900,1,Night-time,hospital,Week_ends,0,22,0,100
+025619-27012013,1100,1,Cooking-time,office,Week_ends,0,3,0,100
+025864-27012013,1100,1,Office Hours,hotel,Week_ends,0,2,0,100
+025990-27012013,6990,4,Cooking-time,others,Week_ends,0,1,0,100
+026116-27012013,6900,2,Night-time,hotel,Week_ends,0,3,0,100
+026282-28012013,6990,5,Night-time,others,Work_days,0,3,0,100
+026598-28012013,6990,7,Cooking-time,others,Work_days,0,3,0,100
+026631-28012013,1100,2,Office Hours,hotel,Work_days,0,1,0,100
+026751-28012013,1100,2,Office Hours,apartment,Work_days,0,2,0,100
+026828-28012013,1100,3,Cooking-time,apartment,Work_days,0,1,0,100
+026854-28012013,1100,4,Cooking-time,apartment,Work_days,0,1,0,100
+026928-28012013,6110,3,Cooking-time,others,Work_days,0,3,0,100
+026943-28012013,1100,5,Cooking-time,apartment,Work_days,0,1,0,100
+027075-28012013,6110,4,Night-time,others,Work_days,0,2,0,100
+027209-29012013,6990,8,Night-time,others,Work_days,0,2,0,100
+027216-29012013,6990,9,Night-time,others,Work_days,0,1,0,100
+027344-29012013,6100,3,Night-time,school,Work_days,0,2,0,100
+027349-29012013,6110,5,Night-time,others,Work_days,0,1,0,100
+027365-29012013,1100,1,Night-time,hospital,Work_days,0,4,0,100
+027414-29012013,6110,6,Night-time,others,Work_days,0,1,0,100
+027432-29012013,6900,2,Cooking-time,house,Work_days,0,4,0,100
+027507-29012013,6900,3,Cooking-time,house,Work_days,0,2,0,100
+027804-29012013,6200,2,Cooking-time,hotel,Work_days,0,1,0,100
+027807-29012013,6100,4,Cooking-time,school,Work_days,0,5,0,100
+027811-29012013,6200,1,Cooking-time,house,Work_days,0,5,0,100
+028066-29012013,6900,2,Night-time,restaurant,Work_days,0,1,0,100
+028093-30012013,6200,2,Night-time,shopping_mall,Work_days,0,9,0,100
+028617-31012013,6110,1,Night-time,apartment,Work_days,0,7,0,100
+028645-31012013,0,0,Night-time,school,Work_days,0,2,0,100
+029991-02022013,6110,2,Night-time,others,Week_ends,0,3,0,100
+029995-02022013,6110,3,Cooking-time,others,Week_ends,0,2,0,100
+030048-02022013,6990,3,Cooking-time,hospital,Week_ends,0,4,0,100
+030071-02022013,6110,4,Office Hours,others,Week_ends,0,1,0,100
+030238-02022013,6990,4,Office Hours,apartment,Week_ends,0,2,0,100
+030247-02022013,6990,5,Office Hours,apartment,Week_ends,0,2,0,100
+030268-02022013,0,0,Office Hours,apartment,Week_ends,0,4,0,100
+030360-02022013,6990,6,Cooking-time,apartment,Week_ends,0,1,0,100
+030431-02022013,6990,7,Night-time,apartment,Week_ends,0,1,0,100
+030460-03022013,6990,8,Night-time,apartment,Week_ends,0,1,0,100
+030575-03022013,6100,1,Office Hours,shopping_mall,Week_ends,0,8,0,100
+030576-03022013,6900,1,Office Hours,industry_facility,Week_ends,0,6,0,100
+030596-03022013,6900,2,Office Hours,industry_facility,Week_ends,0,1,0,100
+032213-06022013,1100,1,Cooking-time,tansport,Work_days,0,3,0,100
+032291-06022013,6110,1,Office Hours,hospital,Work_days,0,2,0,100
+034632-10022013,6200,1,Office Hours,hotel,Week_ends,0,2,0,100
+034694-10022013,6200,2,Cooking-time,hotel,Week_ends,0,1,0,100
+035162-11022013,6110,1,Cooking-time,hospital,Work_days,0,5,0,100
+035262-11022013,6200,3,Office Hours,hotel,Work_days,0,1,0,100
+035541-11022013,6100,2,Cooking-time,industry_facility,Work_days,0,2,0,100
+035613-12022013,6100,3,Night-time,industry_facility,Work_days,0,2,0,100
+035964-12022013,6110,0,Office Hours,restaurant,Work_days,0,1,0,100
+036294-13022013,6100,2,Cooking-time,school,Work_days,0,20,0,100
+036360-13022013,6110,1,Office Hours,office,Work_days,0,10,0,100
+036749-14022013,6200,2,Night-time,office,Work_days,0,2,0,100
+036849-14022013,1120,0,Cooking-time,industry_facility,Work_days,0,12,0,100
+038110-16022013,1100,0,Cooking-time,rest_home,Week_ends,0,16,0,100
+038318-17022013,1100,1,Night-time,rest_home,Week_ends,0,3,0,100
+038354-17022013,6100,0,Cooking-time,restaurant,Week_ends,0,7,0,100
+038552-17022013,6990,3,Office Hours,shopping_mall,Week_ends,0,1,0,100
+038599-17022013,6100,1,Cooking-time,office,Week_ends,0,6,0,100
+038900-18022013,6990,4,Office Hours,shopping_mall,Work_days,0,2,0,100
+039418-19022013,6100,2,Office Hours,tansport,Work_days,0,1,0,100
+039510-19022013,6900,3,Cooking-time,school,Work_days,0,12,0,100
+040419-21022013,6100,2,Night-time,office,Work_days,0,5,0,100
+040433-21022013,6900,2,Night-time,rest_home,Work_days,0,9,0,100
+040800-21022013,6900,2,Office Hours,tansport,Work_days,0,5,0,100
+040834-21022013,6900,3,Office Hours,tansport,Work_days,0,2,0,100
+040956-21022013,6900,4,Cooking-time,tansport,Work_days,0,1,0,100
+041081-22022013,6900,5,Night-time,tansport,Work_days,0,1,0,100
+041085-22022013,6900,6,Night-time,tansport,Work_days,0,1,0,100
+041680-22022013,6900,7,Cooking-time,tansport,Work_days,0,1,0,100
+041973-23022013,6200,1,Cooking-time,office,Week_ends,0,4,0,100
+042006-23022013,6900,2,Cooking-time,rest_home,Week_ends,0,8,0,100
+042136-23022013,6900,3,Office Hours,rest_home,Week_ends,0,1,0,100
+042346-23022013,6900,3,Office Hours,others,Week_ends,0,6,0,100
+042393-23022013,6900,4,Office Hours,rest_home,Week_ends,0,1,0,100
+042480-23022013,6100,2,Office Hours,school,Week_ends,0,6,0,100
+042545-23022013,6900,5,Cooking-time,rest_home,Week_ends,0,1,0,100
+042553-23022013,6900,2,Cooking-time,industry_facility,Week_ends,0,2,0,100
+042569-23022013,6200,2,Cooking-time,school,Week_ends,0,2,0,100
+042696-23022013,6200,2,Cooking-time,public_facility,Week_ends,0,1,0,100
+042871-23022013,6100,2,Night-time,hospital,Week_ends,0,10,0,100
+043027-24022013,1100,0,Night-time,hospital,Week_ends,0,5,0,100
+043068-24022013,6900,2,Night-time,public_facility,Week_ends,0,4,0,100
+043320-24022013,1100,1,Night-time,school,Week_ends,0,6,0,100
+043325-24022013,6100,2,Night-time,school,Week_ends,0,5,0,100
+043640-24022013,6110,3,Office Hours,school,Week_ends,0,3,0,100
+043696-24022013,6110,4,Cooking-time,others,Week_ends,0,1,0,100
+043765-24022013,6100,2,Cooking-time,apartment,Week_ends,0,6,0,100
+043791-24022013,1100,1,Cooking-time,hospital,Week_ends,0,4,0,100
+043869-24022013,6100,3,Office Hours,hospital,Week_ends,0,2,0,100
+043898-24022013,6110,5,Office Hours,school,Week_ends,0,1,0,100
+043946-24022013,6100,3,Office Hours,apartment,Week_ends,0,2,0,100
+044042-24022013,6900,2,Cooking-time,tansport,Week_ends,0,1,0,100
+044057-24022013,6900,2,Cooking-time,restaurant,Week_ends,0,1,0,100
+044087-24022013,6900,3,Cooking-time,restaurant,Week_ends,0,1,0,100
+044171-25022013,6110,6,Night-time,school,Work_days,0,1,0,100
+044191-25022013,1900,1,Night-time,others,Work_days,0,2,0,100
+044405-25022013,6900,3,Office Hours,hotel,Work_days,0,1,0,100
+044456-25022013,6100,5,Cooking-time,hospital,Work_days,0,2,0,100
+044968-26022013,6100,3,Cooking-time,school,Work_days,0,8,0,100
+045430-27022013,6100,3,Night-time,public_facility,Work_days,0,3,0,100
+046402-28022013,6900,4,Cooking-time,hospital,Work_days,0,4,0,100
+046419-28022013,6990,3,Cooking-time,office,Work_days,0,2,0,100
+047238-02032013,6900,2,Office Hours,hospital,Week_ends,0,10,0,100
+047380-02032013,6200,1,Office Hours,rest_home,Week_ends,0,5,0,100
+047513-02032013,6990,1,Cooking-time,restaurant,Week_ends,0,1,0,100
+047552-02032013,6110,1,Cooking-time,rest_home,Week_ends,0,1,0,100
+047561-02032013,1120,0,Night-time,hotel,Week_ends,0,1,0,100
+047574-02032013,1120,1,Night-time,hotel,Week_ends,0,1,0,100
+047594-02032013,6990,2,Night-time,hotel,Week_ends,0,5,0,100
+047658-03032013,6990,3,Night-time,hotel,Week_ends,0,1,0,100
+047701-03032013,6110,1,Night-time,office,Week_ends,0,2,0,100
+048078-03032013,1100,1,Night-time,house,Week_ends,0,1,0,100
+048662-05032013,6990,3,Night-time,hospital,Work_days,0,3,0,100
+049002-05032013,6200,3,Cooking-time,industry_facility,Work_days,0,1,0,100
+049154-06032013,1100,2,Night-time,hospital,Work_days,0,1,0,100
+049181-06032013,1100,3,Night-time,hospital,Work_days,0,1,0,100
+049671-07032013,6200,2,Night-time,hotel,Work_days,0,1,0,100
+049969-07032013,1120,0,Office Hours,office,Work_days,0,14,0,100
+050496-08032013,6200,1,Office Hours,rest_home,Work_days,0,12,0,100
+050947-09032013,6110,0,Cooking-time,house,Week_ends,0,6,0,100
+051037-09032013,6110,1,Office Hours,apartment,Week_ends,0,5,0,100
+051549-10032013,6110,2,Night-time,school,Week_ends,0,2,0,100
+051558-10032013,6290,0,Night-time,school,Week_ends,0,6,0,100
+052187-11032013,1200,0,Office Hours,apartment,Work_days,0,1,0,100
+053752-14032013,1100,1,Office Hours,house,Work_days,0,1,0,100
+053948-14032013,1900,0,Office Hours,apartment,Work_days,0,5,0,100
+054130-15032013,6990,4,Night-time,others,Work_days,0,13,0,100
+054698-16032013,6990,5,Night-time,others,Week_ends,0,1,0,100
+054702-16032013,6990,6,Night-time,others,Week_ends,0,1,0,100
+054713-16032013,6990,7,Night-time,others,Week_ends,0,1,0,100
+054727-16032013,6990,8,Night-time,others,Week_ends,0,2,0,100
+054752-16032013,6990,9,Night-time,others,Week_ends,0,1,0,100
+054928-16032013,6990,10,Cooking-time,others,Week_ends,0,1,0,100
+054988-16032013,6990,11,Cooking-time,others,Week_ends,0,1,0,100
+055001-16032013,6990,12,Office Hours,others,Week_ends,0,1,0,100
+055016-16032013,6990,13,Office Hours,others,Week_ends,0,1,0,100
+055058-16032013,6990,14,Office Hours,others,Week_ends,0,1,0,100
+055073-16032013,6990,15,Office Hours,others,Week_ends,0,1,0,100
+055927-18032013,6100,0,Night-time,restaurant,Work_days,0,11,0,100
+056431-19032013,1200,0,Night-time,public_facility,Work_days,0,1,0,100
+056616-19032013,6110,4,Cooking-time,school,Work_days,0,3,0,100
+056702-19032013,6110,5,Office Hours,school,Work_days,0,2,0,100
+057285-20032013,6110,6,Office Hours,school,Work_days,0,2,0,100
+059125-23032013,6110,4,Office Hours,school,Week_ends,0,1,0,100
+059181-23032013,6110,5,Cooking-time,school,Week_ends,0,1,0,100
+059239-23032013,6110,6,Cooking-time,school,Week_ends,0,1,0,100
+059360-23032013,6110,7,Office Hours,school,Week_ends,0,1,0,100
+059625-24032013,6110,8,Night-time,others,Week_ends,0,1,0,100
+059712-24032013,1100,1,Night-time,public_facility,Week_ends,0,3,0,100
+063798-30032013,6100,2,Cooking-time,rest_home,Week_ends,0,4,0,100
+063896-30032013,6210,0,Cooking-time,office,Week_ends,0,3,0,100
+063960-30032013,6100,3,Office Hours,others,Week_ends,0,7,0,100
+063962-30032013,6100,4,Office Hours,others,Week_ends,0,2,0,100
+064267-31032013,6210,1,Night-time,office,Week_ends,0,1,0,100
+064340-31032013,6210,2,Night-time,office,Week_ends,0,1,0,100
+064759-31032013,6900,3,Night-time,hotel,Week_ends,0,2,0,100
+064806-01042013,6900,4,Night-time,hotel,Work_days,0,1,0,100
+064850-01042013,6900,5,Night-time,hotel,Work_days,0,1,0,100
+066157-03042013,6110,2,Cooking-time,office,Work_days,0,3,0,100
+066581-04042013,1100,2,Cooking-time,school,Work_days,0,3,0,100
+066970-04042013,1100,3,Cooking-time,school,Work_days,0,2,0,100
+066998-04042013,1100,4,Cooking-time,school,Work_days,0,1,0,100
+067018-04042013,1100,5,Night-time,school,Work_days,0,1,0,100
+067048-05042013,1100,6,Night-time,school,Work_days,0,1,0,100
+067362-05042013,1100,7,Office Hours,school,Work_days,0,1,0,100
+067702-06042013,6100,2,Cooking-time,public_facility,Week_ends,0,7,0,100
+067780-06042013,1100,8,Office Hours,school,Week_ends,0,1,0,100
+067917-06042013,1100,1,Office Hours,others,Week_ends,0,5,0,100
+068265-07042013,6990,2,Night-time,public_facility,Week_ends,0,5,0,100
+068820-08042013,6900,2,Office Hours,hotel,Work_days,0,3,0,100
+068906-08042013,6990,2,Cooking-time,house,Work_days,0,2,0,100
+069206-09042013,6900,2,Night-time,hotel,Work_days,0,8,0,100
+069245-09042013,6210,0,Night-time,office,Work_days,0,5,0,100
+069314-09042013,6210,1,Cooking-time,office,Work_days,0,2,0,100
+069342-09042013,6900,4,Office Hours,others,Work_days,0,4,0,100
+069377-09042013,6200,0,Office Hours,restaurant,Work_days,0,1,0,100
+069958-10042013,1100,2,Cooking-time,hospital,Work_days,0,1,0,100
+070076-10042013,6200,2,Office Hours,office,Work_days,0,1,0,100
+072209-14042013,6900,4,Night-time,school,Week_ends,0,1,0,100
+072210-14042013,0,0,Night-time,school,Week_ends,0,2,0,100
+072219-14042013,6900,5,Night-time,school,Week_ends,0,1,0,100
+072459-14042013,6100,2,Office Hours,shopping_mall,Week_ends,0,2,0,100
+072657-14042013,6100,3,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+072666-14042013,6100,4,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+073585-16042013,6100,2,Office Hours,shopping_mall,Work_days,0,8,0,100
+074096-17042013,0,0,Office Hours,hotel,Work_days,0,2,0,100
+074592-18042013,1170,0,Night-time,others,Work_days,0,2,0,100
+074739-18042013,6100,2,Office Hours,school,Work_days,0,12,0,100
+075307-19042013,6100,3,Night-time,hospital,Work_days,0,5,0,100
+075612-19042013,6110,1,Office Hours,public_facility,Work_days,0,9,0,100
+075807-19042013,6200,2,Cooking-time,public_facility,Work_days,0,3,0,100
+075831-19042013,6200,3,Night-time,public_facility,Work_days,0,1,0,100
+075987-20042013,6110,1,Cooking-time,office,Week_ends,0,5,0,100
+076079-20042013,6110,2,Office Hours,public_facility,Week_ends,0,1,0,100
+076124-20042013,6900,4,Office Hours,others,Week_ends,0,4,0,100
+076468-20042013,6100,2,Night-time,public_facility,Week_ends,0,1,0,100
+076580-21042013,1120,0,Night-time,office,Week_ends,0,2,0,100
+076688-21042013,6100,1,Office Hours,rest_home,Week_ends,0,8,0,100
+077761-23042013,6900,2,Office Hours,public_facility,Work_days,0,5,0,100
+078958-25042013,6200,3,Office Hours,school,Work_days,0,1,0,100
+080516-27042013,6110,0,Cooking-time,industry_facility,Week_ends,0,7,0,100
+080558-27042013,6990,1,Night-time,house,Week_ends,0,2,0,100
+080646-28042013,6110,1,Night-time,industry_facility,Week_ends,0,2,0,100
+081232-28042013,6100,1,Night-time,house,Week_ends,0,2,0,100
+081564-29042013,6100,2,Cooking-time,office,Work_days,0,5,0,100
+081596-29042013,6200,1,Office Hours,hospital,Work_days,0,7,0,100
+081856-29042013,6110,2,Cooking-time,industry_facility,Work_days,0,2,0,100
+082320-30042013,6110,2,Office Hours,rest_home,Work_days,0,1,0,100
+082588-01052013,6110,3,Night-time,rest_home,Work_days,0,1,0,100
+083043-01052013,7110,0,Night-time,public_facility,Work_days,0,5,0,100
+083292-02052013,6210,0,Cooking-time,office,Work_days,0,4,0,100
+086046-07052013,6990,3,Night-time,apartment,Work_days,0,5,0,100
+086380-07052013,6990,3,Office Hours,hospital,Work_days,0,5,0,100
+086882-08052013,1200,0,Office Hours,others,Work_days,0,6,0,100
+087607-09052013,6100,2,Cooking-time,tansport,Work_days,0,2,0,100
+087617-09052013,6100,3,Cooking-time,tansport,Work_days,0,1,0,100
+088423-10052013,6900,2,Night-time,tansport,Work_days,0,5,0,100
+088722-11052013,6210,0,Office Hours,office,Week_ends,0,2,0,100
+088931-11052013,1100,1,Office Hours,school,Week_ends,0,5,0,100
+089369-12052013,6100,1,Cooking-time,restaurant,Week_ends,0,1,0,100
+089902-12052013,6990,1,Night-time,tansport,Week_ends,0,3,0,100
+094407-20052013,6900,6,Cooking-time,apartment,Work_days,0,2,0,100
+095050-21052013,6200,4,Office Hours,shopping_mall,Work_days,0,1,0,100
+095754-22052013,6100,1,Office Hours,restaurant,Work_days,0,1,0,100
+095915-22052013,1100,1,Cooking-time,rest_home,Work_days,0,5,0,100
+096086-22052013,6900,4,Cooking-time,apartment,Work_days,0,3,0,100
+096688-24052013,6900,6,Night-time,apartment,Work_days,0,1,0,100
+096875-24052013,6200,3,Office Hours,shopping_mall,Work_days,0,2,0,100
+096952-24052013,6900,7,Cooking-time,apartment,Work_days,0,2,0,100
+097031-24052013,6990,2,Office Hours,school,Work_days,0,2,0,100
+097298-25052013,6900,8,Night-time,apartment,Week_ends,0,1,0,100
+097317-25052013,6210,0,Night-time,office,Week_ends,0,1,0,100
+099143-28052013,6990,1,Cooking-time,tansport,Work_days,0,7,0,100
+099348-28052013,7110,1,Cooking-time,public_facility,Work_days,0,4,0,100
+099515-29052013,6100,2,Night-time,apartment,Work_days,0,11,0,100
+099605-29052013,6900,1,Office Hours,house,Work_days,0,6,0,100
+100689-31052013,6990,1,Office Hours,tansport,Work_days,0,3,0,100
+100692-31052013,6990,2,Office Hours,tansport,Work_days,0,3,0,100
+101012-31052013,6900,3,Night-time,office,Work_days,0,2,0,100
+101032-01062013,6900,4,Night-time,office,Week_ends,0,2,0,100
+101148-01062013,6110,2,Cooking-time,others,Week_ends,0,4,0,100
+101194-01062013,6110,3,Office Hours,others,Week_ends,0,1,0,100
+101646-02062013,6110,1,Office Hours,public_facility,Week_ends,0,1,0,100
+101690-02062013,6100,1,Office Hours,restaurant,Week_ends,0,1,0,100
+101974-03062013,6990,4,Cooking-time,shopping_mall,Work_days,0,2,0,100
+102451-04062013,1200,1,Cooking-time,public_facility,Work_days,0,1,0,100
+102762-04062013,1200,2,Cooking-time,public_facility,Work_days,0,1,0,100
+103460-06062013,6200,1,Cooking-time,hospital,Work_days,0,10,0,100
+103553-06062013,6200,2,Cooking-time,hospital,Work_days,0,4,0,100
+104805-08062013,1100,2,Office Hours,others,Week_ends,0,5,0,100
+107714-14062013,6990,3,Night-time,school,Work_days,0,2,0,100
+108205-15062013,1100,3,Night-time,apartment,Week_ends,0,1,0,100
+108226-15062013,1100,4,Night-time,apartment,Week_ends,0,2,0,100
+108877-16062013,6290,1,Office Hours,school,Week_ends,0,1,0,100
+108903-16062013,6200,2,Cooking-time,others,Week_ends,0,1,0,100
+109930-18062013,6200,1,Office Hours,hotel,Work_days,0,6,0,100
+109962-18062013,6200,2,Office Hours,hotel,Work_days,0,2,0,100
+110364-19062013,6200,3,Cooking-time,hotel,Work_days,0,1,0,100
+111340-21062013,6990,1,Office Hours,restaurant,Work_days,0,2,0,100
+111672-21062013,6990,3,Night-time,industry_facility,Work_days,0,1,0,100
+111699-21062013,1100,3,Night-time,apartment,Work_days,0,2,0,100
+111767-22062013,6200,1,Night-time,industry_facility,Week_ends,0,2,0,100
+111802-22062013,1100,5,Night-time,apartment,Week_ends,0,2,0,100
+112816-23062013,6990,4,Cooking-time,office,Week_ends,0,1,0,100
+112924-23062013,7110,1,Night-time,public_facility,Week_ends,0,2,0,100
+112978-24062013,6900,3,Night-time,hotel,Work_days,0,1,0,100
+112997-24062013,6100,1,Night-time,industry_facility,Work_days,0,8,0,100
+113008-24062013,6990,5,Night-time,office,Work_days,0,2,0,100
+113307-24062013,6290,0,Office Hours,school,Work_days,0,3,0,100
+113334-24062013,6120,0,Office Hours,office,Work_days,0,1,0,100
+113564-25062013,6100,1,Night-time,restaurant,Work_days,0,3,0,100
+113849-25062013,6210,0,Office Hours,office,Work_days,0,4,0,100
+115124-27062013,6900,3,Night-time,tansport,Work_days,0,3,0,100
+115757-29062013,6200,1,Cooking-time,rest_home,Week_ends,0,2,0,100
+116117-29062013,1100,2,Cooking-time,school,Week_ends,0,4,0,100
+116149-29062013,1100,3,Cooking-time,school,Week_ends,0,1,0,100
+116200-30062013,1100,4,Night-time,school,Week_ends,0,1,0,100
+116205-30062013,0,0,Night-time,apartment,Week_ends,0,2,0,100
+116238-30062013,6900,2,Night-time,apartment,Week_ends,0,4,0,100
+116613-30062013,6990,2,Night-time,hospital,Week_ends,0,4,0,100
+117201-02072013,1200,0,Night-time,others,Work_days,0,9,0,100
+118045-03072013,6990,6,Office Hours,others,Work_days,0,1,0,100
+118101-03072013,6990,7,Office Hours,others,Work_days,0,1,0,100
+118473-04072013,6990,9,Cooking-time,others,Work_days,0,1,0,100
+120009-07072013,1120,0,Cooking-time,hospital,Week_ends,0,3,0,100
+121869-10072013,8990,0,Cooking-time,others,Work_days,0,1,0,100
+122234-11072013,1100,4,Night-time,office,Work_days,0,1,0,100
+123496-13072013,6200,2,Cooking-time,apartment,Week_ends,0,4,0,100
+124894-15072013,6990,3,Night-time,office,Work_days,0,5,0,100
+125112-16072013,6990,4,Cooking-time,office,Work_days,0,3,0,100
+126420-18072013,6110,3,Night-time,others,Work_days,0,2,0,100
+127097-20072013,6990,4,Office Hours,shopping_mall,Week_ends,0,1,0,100
+127325-20072013,1100,3,Cooking-time,others,Week_ends,0,2,0,100
+127516-21072013,6900,3,Night-time,rest_home,Week_ends,0,1,0,100
+127770-21072013,6900,3,Office Hours,school,Week_ends,0,1,0,100
+127967-21072013,1900,0,Night-time,shopping_mall,Week_ends,0,2,0,100
+128512-23072013,6200,1,Night-time,house,Work_days,0,2,0,100
+128560-23072013,6200,1,Cooking-time,industry_facility,Work_days,0,2,0,100
+132959-30072013,6900,2,Night-time,industry_facility,Work_days,0,6,0,100
+134702-03082013,1100,0,Night-time,rest_home,Week_ends,0,3,0,100
+135392-04082013,6900,3,Office Hours,apartment,Week_ends,0,1,0,100
+142954-16082013,6100,3,Night-time,rest_home,Work_days,0,3,0,100
+143708-17082013,6990,4,Cooking-time,hospital,Week_ends,0,1,0,100
+144984-19082013,6990,2,Night-time,house,Work_days,0,2,0,100
+145397-19082013,1100,2,Office Hours,school,Work_days,0,3,0,100
+147571-23082013,6990,4,Night-time,hospital,Work_days,0,1,0,100
+147889-23082013,6990,5,Cooking-time,hospital,Work_days,0,3,0,100
+151350-28082013,1100,3,Cooking-time,others,Work_days,0,3,0,100
+152761-30082013,6110,2,Night-time,shopping_mall,Work_days,0,1,0,100
+154619-01092013,7110,0,Night-time,public_facility,Week_ends,0,5,0,100
+155150-01092013,1100,1,Cooking-time,tansport,Week_ends,0,1,0,100
+155179-01092013,6100,3,Cooking-time,hospital,Week_ends,0,4,0,100
+156073-03092013,1170,0,Office Hours,others,Work_days,0,2,0,100
+158707-07092013,1100,1,Night-time,restaurant,Week_ends,0,2,0,100
+159668-07092013,6200,2,Night-time,shopping_mall,Week_ends,0,1,0,100
+165023-13092013,1120,0,Cooking-time,office,Work_days,0,13,0,100
+165523-14092013,6110,0,Office Hours,office,Week_ends,0,13,0,100
+167749-18092013,6900,2,Cooking-time,restaurant,Work_days,0,2,0,100
+168101-19092013,6900,3,Cooking-time,shopping_mall,Work_days,0,3,0,100
+168692-20092013,6990,2,Cooking-time,tansport,Work_days,0,1,0,100
+169021-20092013,1100,0,Office Hours,restaurant,Work_days,0,4,0,100
+169708-21092013,6120,0,Office Hours,others,Week_ends,0,3,0,100
+171621-24092013,6200,2,Cooking-time,apartment,Work_days,0,3,0,100
+172341-25092013,6200,3,Night-time,apartment,Work_days,0,1,0,100
+172401-25092013,6200,4,Cooking-time,apartment,Work_days,0,1,0,100
+174879-27092013,1200,0,Cooking-time,shopping_mall,Work_days,0,1,0,100
+177485-29092013,6900,2,Office Hours,tansport,Week_ends,0,1,0,100
+180067-02102013,1100,4,Cooking-time,office,Work_days,0,1,0,100
+181039-03102013,6110,1,Office Hours,hotel,Work_days,0,1,0,100
+182228-05102013,6200,0,Office Hours,restaurant,Week_ends,0,1,0,100
+182916-06102013,6990,3,Cooking-time,hotel,Week_ends,0,3,0,100
+186135-10102013,1100,3,Office Hours,others,Work_days,0,2,0,100
+188202-12102013,1100,1,Office Hours,apartment,Week_ends,0,1,0,100
+188837-12102013,1100,2,Night-time,public_facility,Week_ends,0,2,0,100
+192616-16102013,6900,3,Cooking-time,public_facility,Work_days,0,5,0,100
+199063-20102013,6200,2,Night-time,public_facility,Week_ends,0,1,0,100
+199300-20102013,6200,2,Cooking-time,rest_home,Week_ends,0,1,0,100
+201483-22102013,6100,1,Office Hours,house,Work_days,0,3,0,100
+203013-23102013,6990,6,Office Hours,hospital,Work_days,0,1,0,100
+203398-24102013,6990,7,Night-time,hospital,Work_days,0,1,0,100
+208469-29102013,6200,2,Office Hours,industry_facility,Work_days,0,1,0,100
+208853-30102013,1120,0,Office Hours,apartment,Work_days,0,2,0,100
+208958-30102013,6990,4,Cooking-time,apartment,Work_days,0,3,0,100
+209011-30102013,1100,3,Cooking-time,public_facility,Work_days,0,1,0,100
+209013-30102013,1100,4,Cooking-time,public_facility,Work_days,0,1,0,100
+209014-30102013,1100,5,Cooking-time,public_facility,Work_days,0,1,0,100
+209016-30102013,1100,6,Cooking-time,public_facility,Work_days,0,1,0,100
+209018-30102013,1100,7,Cooking-time,public_facility,Work_days,0,1,0,100
+209019-30102013,1100,8,Cooking-time,public_facility,Work_days,0,1,0,100
+209020-30102013,1100,9,Cooking-time,public_facility,Work_days,0,1,0,100
+209021-30102013,1100,10,Cooking-time,public_facility,Work_days,0,1,0,100
+209022-30102013,1100,11,Cooking-time,public_facility,Work_days,0,1,0,100
+209023-30102013,1100,12,Cooking-time,public_facility,Work_days,0,1,0,100
+209024-30102013,1100,13,Cooking-time,public_facility,Work_days,0,1,0,100
+209025-30102013,1100,14,Cooking-time,public_facility,Work_days,0,1,0,100
+209026-30102013,1100,15,Cooking-time,public_facility,Work_days,0,1,0,100
+209027-30102013,1100,16,Cooking-time,public_facility,Work_days,0,1,0,100
+209028-30102013,1100,17,Cooking-time,public_facility,Work_days,0,1,0,100
+209029-30102013,1100,18,Cooking-time,public_facility,Work_days,0,1,0,100
+209030-30102013,1100,19,Cooking-time,public_facility,Work_days,0,1,0,100
+209031-30102013,1100,20,Cooking-time,public_facility,Work_days,0,1,0,100
+209032-30102013,1100,21,Cooking-time,public_facility,Work_days,0,1,0,100
+209033-30102013,1100,22,Cooking-time,public_facility,Work_days,0,1,0,100
+209034-30102013,1100,23,Cooking-time,public_facility,Work_days,0,1,0,100
+209035-30102013,1100,24,Cooking-time,public_facility,Work_days,0,1,0,100
+209036-30102013,1100,25,Cooking-time,public_facility,Work_days,0,1,0,100
+209037-30102013,1100,26,Cooking-time,public_facility,Work_days,0,1,0,100
+209038-30102013,1100,27,Cooking-time,public_facility,Work_days,0,1,0,100
+209039-30102013,1100,28,Cooking-time,public_facility,Work_days,0,1,0,100
+209040-30102013,1100,29,Cooking-time,public_facility,Work_days,0,1,0,100
+209041-30102013,1100,30,Cooking-time,public_facility,Work_days,0,1,0,100
+209042-30102013,1100,31,Cooking-time,public_facility,Work_days,0,1,0,100
+209043-30102013,1100,32,Cooking-time,public_facility,Work_days,0,1,0,100
+209044-30102013,1100,33,Cooking-time,public_facility,Work_days,0,1,0,100
+209045-30102013,1100,34,Cooking-time,public_facility,Work_days,0,1,0,100
+209046-30102013,1100,35,Cooking-time,public_facility,Work_days,0,1,0,100
+209047-30102013,1100,36,Cooking-time,public_facility,Work_days,0,1,0,100
+209048-30102013,1100,37,Cooking-time,public_facility,Work_days,0,1,0,100
+209049-30102013,1100,38,Cooking-time,public_facility,Work_days,0,1,0,100
+209050-30102013,1100,39,Cooking-time,public_facility,Work_days,0,1,0,100
+209051-30102013,1100,40,Cooking-time,public_facility,Work_days,0,1,0,100
+209052-30102013,1100,41,Cooking-time,public_facility,Work_days,0,1,0,100
+209053-30102013,1100,42,Office Hours,public_facility,Work_days,0,1,0,100
+209054-30102013,1100,43,Office Hours,public_facility,Work_days,0,1,0,100
+209064-30102013,1100,44,Office Hours,public_facility,Work_days,0,1,0,100
+209067-30102013,1100,45,Office Hours,public_facility,Work_days,0,1,0,100
+209563-31102013,1900,3,Cooking-time,others,Work_days,0,1,0,100
+209564-31102013,1900,4,Cooking-time,others,Work_days,0,1,0,100
+209565-31102013,1900,5,Cooking-time,others,Work_days,0,1,0,100
+209566-31102013,1900,6,Cooking-time,others,Work_days,0,1,0,100
+209567-31102013,1900,7,Cooking-time,others,Work_days,0,1,0,100
+209568-31102013,1900,8,Cooking-time,others,Work_days,0,1,0,100
+209569-31102013,1900,9,Cooking-time,others,Work_days,0,1,0,100
+209570-31102013,1900,10,Cooking-time,others,Work_days,0,1,0,100
+209606-31102013,6900,5,Cooking-time,others,Work_days,0,8,0,100
+209608-31102013,6900,6,Cooking-time,others,Work_days,0,4,0,100
+210200-01112013,6900,4,Office Hours,hospital,Work_days,0,2,0,100
+210826-02112013,6120,0,Cooking-time,others,Week_ends,0,2,0,100
+210965-02112013,6120,1,Office Hours,others,Week_ends,0,1,0,100
+211148-02112013,6100,2,Cooking-time,hotel,Week_ends,0,3,0,100
+211330-02112013,1100,3,Office Hours,apartment,Week_ends,0,1,0,100
+211909-03112013,6990,5,Cooking-time,others,Week_ends,0,1,0,100
+212178-03112013,6990,6,Cooking-time,others,Week_ends,0,1,0,100
+215985-07112013,6110,1,Office Hours,industry_facility,Work_days,0,5,0,100
+216887-08112013,6900,2,Office Hours,office,Work_days,0,4,0,100
+217065-08112013,6100,3,Cooking-time,office,Work_days,0,1,0,100
+217620-09112013,6990,2,Office Hours,school,Week_ends,0,3,0,100
+220396-12112013,1120,0,Office Hours,public_facility,Work_days,0,1,0,100
+220961-13112013,6900,3,Cooking-time,industry_facility,Work_days,0,2,0,100
+222679-16112013,1200,0,Night-time,others,Week_ends,0,1,0,100
+223085-16112013,6200,2,Office Hours,shopping_mall,Week_ends,0,2,0,100
+224159-18112013,6100,2,Office Hours,hotel,Work_days,0,4,0,100
+224428-19112013,6100,3,Night-time,hotel,Work_days,0,2,0,100
+224753-19112013,7110,1,Office Hours,public_facility,Work_days,0,4,0,100
+225020-20112013,6990,3,Night-time,hotel,Work_days,0,3,0,100
+225405-20112013,1100,1,Office Hours,public_facility,Work_days,0,6,0,100
+226424-22112013,6900,2,Office Hours,industry_facility,Work_days,0,3,0,100
+226972-23112013,6900,3,Night-time,office,Week_ends,0,1,0,100
+227307-23112013,6900,4,Cooking-time,office,Week_ends,0,1,0,100
+228608-26112013,6100,2,Office Hours,public_facility,Work_days,0,3,0,100
+229066-27112013,6100,3,Cooking-time,public_facility,Work_days,0,1,0,100
+231040-30112013,6900,2,Night-time,industry_facility,Week_ends,0,4,0,100
+231150-01122013,6990,2,Cooking-time,industry_facility,Week_ends,0,2,0,100
+231313-01122013,6900,2,Office Hours,shopping_mall,Week_ends,0,3,0,100
+231794-02122013,6990,3,Office Hours,public_facility,Work_days,0,2,0,100
+232548-03122013,6990,3,Office Hours,hotel,Work_days,0,2,0,100
+232699-03122013,1100,2,Night-time,tansport,Work_days,0,3,0,100
+232710-03122013,6110,2,Night-time,rest_home,Work_days,0,2,0,100
+234686-06122013,1200,0,Cooking-time,hotel,Work_days,0,4,0,100
+234780-06122013,1200,1,Night-time,hotel,Work_days,0,4,0,100
+235343-07122013,1200,2,Cooking-time,hotel,Week_ends,0,1,0,100
+235854-08122013,1200,3,Cooking-time,hotel,Week_ends,0,1,0,100
+236069-08122013,1200,4,Cooking-time,hotel,Week_ends,0,1,0,100
+236159-09122013,6100,2,Night-time,hotel,Work_days,0,7,0,100
+236726-09122013,1200,5,Cooking-time,hotel,Work_days,0,1,0,100
+236786-09122013,1200,6,Night-time,hotel,Work_days,0,1,0,100
+237821-11122013,6990,6,Office Hours,apartment,Work_days,0,1,0,100
+237822-11122013,6990,7,Office Hours,apartment,Work_days,0,1,0,100
+237823-11122013,6990,8,Office Hours,apartment,Work_days,0,1,0,100
+239473-14122013,6100,2,Night-time,rest_home,Week_ends,0,4,0,100
+240435-15122013,6900,2,Office Hours,rest_home,Week_ends,0,2,0,100
+242942-19122013,6990,5,Cooking-time,shopping_mall,Work_days,0,1,0,100
+243924-20122013,0,0,Office Hours,school,Work_days,0,1,0,100
+246625-24122013,6200,1,Night-time,public_facility,Work_days,0,6,0,100
+247567-25122013,6100,3,Office Hours,shopping_mall,Work_days,0,2,0,100
+248581-27122013,6900,4,Office Hours,school,Work_days,0,3,0,100
+002112-03012014,6110,1,Night-time,hospital,Work_days,0,2,0,100
+003453-06012014,6100,5,Night-time,hospital,Work_days,0,1,0,100
+004629-07012014,6990,3,Office Hours,office,Work_days,0,2,0,100
+006032-10012014,1100,1,Night-time,tansport,Work_days,0,1,0,100
+006193-10012014,1100,2,Cooking-time,tansport,Work_days,0,1,0,100
+007596-12012014,6100,3,Cooking-time,rest_home,Week_ends,0,1,0,100
+007685-12012014,6110,1,Night-time,rest_home,Week_ends,0,1,0,100
+008699-14012014,6110,2,Office Hours,industry_facility,Work_days,0,2,0,100
+009261-15012014,6110,3,Cooking-time,industry_facility,Work_days,0,2,0,100
+009785-16012014,6100,3,Night-time,apartment,Work_days,0,2,0,100
+009812-16012014,6100,4,Night-time,apartment,Work_days,0,2,0,100
+011746-18012014,0,0,Cooking-time,office,Week_ends,0,2,0,100
+012714-19012014,6200,0,Night-time,house,Week_ends,0,1,0,100
+017528-26012014,6200,2,Night-time,others,Week_ends,0,2,0,100
+022421-02022014,6200,2,Office Hours,apartment,Week_ends,0,1,0,100
+026371-08022014,1120,0,Cooking-time,office,Week_ends,0,1,0,100
+027704-10022014,6990,1,Night-time,tansport,Work_days,0,7,0,100
+028266-11022014,6990,2,Night-time,tansport,Work_days,0,2,0,100
+031006-15022014,7110,0,Night-time,others,Week_ends,0,1,0,100
+031535-15022014,0,0,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+031781-16022014,6110,1,Night-time,hospital,Week_ends,0,1,0,100
+032353-16022014,6100,1,Night-time,tansport,Week_ends,0,5,0,100
+034196-20022014,6900,7,Night-time,others,Work_days,0,3,0,100
+034641-20022014,6900,9,Night-time,others,Work_days,0,1,0,100
+034747-21022014,6100,2,Night-time,tansport,Work_days,0,2,0,100
+035151-21022014,6900,10,Cooking-time,others,Work_days,0,1,0,100
+035310-22022014,1100,2,Night-time,hospital,Week_ends,0,1,0,100
+036305-24022014,1120,1,Cooking-time,office,Work_days,0,2,0,100
+036693-24022014,1120,1,Cooking-time,apartment,Work_days,0,1,0,100
+037114-25022014,2270,0,Office Hours,others,Work_days,0,1,0,100
+038323-27022014,7110,1,Cooking-time,others,Work_days,0,1,0,100
+038821-28022014,6200,3,Cooking-time,others,Work_days,0,2,0,100
+039937-02032014,1100,2,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+040190-03032014,6210,1,Office Hours,office,Work_days,0,1,0,100
+040676-04032014,6990,5,Office Hours,others,Work_days,0,2,0,100
+040814-04032014,6110,1,Office Hours,shopping_mall,Work_days,0,2,0,100
+043266-08032014,1100,0,Office Hours,hospital,Week_ends,0,4,0,100
+043487-09032014,1120,0,Night-time,apartment,Week_ends,0,1,0,100
+043624-09032014,0,0,Office Hours,public_facility,Week_ends,0,1,0,100
+045242-12032014,6990,3,Cooking-time,tansport,Work_days,0,1,0,100
+045647-13032014,6200,2,Night-time,apartment,Work_days,0,1,0,100
+046229-14032014,6100,4,Office Hours,rest_home,Work_days,0,2,0,100
+051281-22032014,6110,2,Cooking-time,office,Week_ends,0,1,0,100
+051648-23032014,6100,3,Night-time,others,Week_ends,0,1,0,100
+052991-25032014,6900,1,Office Hours,restaurant,Work_days,0,2,0,100
+053661-26032014,6990,3,Cooking-time,house,Work_days,0,1,0,100
+053866-26032014,6900,3,Cooking-time,rest_home,Work_days,0,2,0,100
+059197-05042014,6900,3,Office Hours,hospital,Week_ends,0,1,0,100
+062375-12042014,1110,0,Night-time,others,Week_ends,0,1,0,100
+062557-12042014,1100,2,Cooking-time,office,Week_ends,0,1,0,100
+062682-12042014,1900,0,Office Hours,apartment,Week_ends,0,1,0,100
+062897-13042014,1120,0,Night-time,shopping_mall,Week_ends,0,1,0,100
+062959-13042014,6110,1,Night-time,public_facility,Week_ends,0,1,0,100
+063043-13042014,6900,2,Office Hours,apartment,Week_ends,0,2,0,100
+063942-15042014,6900,5,Office Hours,apartment,Work_days,0,1,0,100
+064479-16042014,6100,3,Office Hours,public_facility,Work_days,0,3,0,100
+064669-16042014,6100,4,Cooking-time,public_facility,Work_days,0,2,0,100
+066262-19042014,1100,2,Office Hours,office,Week_ends,0,1,0,100
+066263-19042014,6100,2,Office Hours,office,Week_ends,0,2,0,100
+066982-20042014,6900,4,Cooking-time,apartment,Week_ends,0,1,0,100
+067583-22042014,6200,4,Night-time,others,Work_days,0,2,0,100
+068080-23042014,6200,5,Night-time,others,Work_days,0,1,0,100
+068559-23042014,1900,1,Cooking-time,apartment,Work_days,0,1,0,100
+073805-04052014,6900,3,Night-time,apartment,Week_ends,0,1,0,100
+073867-04052014,1100,2,Night-time,shopping_mall,Week_ends,0,2,0,100
+073875-04052014,1120,1,Night-time,others,Week_ends,0,2,0,100
+073887-04052014,6900,4,Night-time,apartment,Week_ends,0,1,0,100
+073908-04052014,1100,3,Night-time,shopping_mall,Week_ends,0,2,0,100
+074018-04052014,6900,6,Cooking-time,apartment,Week_ends,0,1,0,100
+074339-05052014,1100,4,Night-time,shopping_mall,Work_days,0,1,0,100
+074369-05052014,1100,5,Night-time,shopping_mall,Work_days,0,1,0,100
+074475-05052014,6200,2,Cooking-time,rest_home,Work_days,0,1,0,100
+074689-05052014,1100,6,Office Hours,shopping_mall,Work_days,0,1,0,100
+074858-05052014,6900,4,Cooking-time,public_facility,Work_days,0,2,0,100
+074953-06052014,6200,3,Night-time,rest_home,Work_days,0,1,0,100
+074962-06052014,1100,7,Night-time,shopping_mall,Work_days,0,1,0,100
+074972-06052014,6900,5,Night-time,public_facility,Work_days,0,1,0,100
+074985-06052014,6110,2,Night-time,office,Work_days,0,2,0,100
+074995-06052014,6900,6,Cooking-time,public_facility,Work_days,0,1,0,100
+075007-06052014,6900,7,Cooking-time,public_facility,Work_days,0,1,0,100
+075421-06052014,1100,8,Night-time,shopping_mall,Work_days,0,1,0,100
+075447-07052014,1100,9,Night-time,shopping_mall,Work_days,0,1,0,100
+075454-07052014,1100,10,Night-time,shopping_mall,Work_days,0,1,0,100
+075565-07052014,1100,11,Office Hours,shopping_mall,Work_days,0,1,0,100
+078463-12052014,1100,2,Cooking-time,hotel,Work_days,0,1,0,100
+080190-16052014,1100,4,Night-time,apartment,Work_days,0,1,0,100
+080964-17052014,1100,6,Night-time,apartment,Week_ends,0,1,0,100
+080982-17052014,1100,7,Night-time,apartment,Week_ends,0,1,0,100
+080995-17052014,1100,8,Night-time,apartment,Week_ends,0,1,0,100
+082380-19052014,6100,4,Office Hours,others,Work_days,0,1,0,100
+085228-24052014,6990,2,Cooking-time,school,Week_ends,0,2,0,100
+085289-24052014,6990,3,Cooking-time,school,Week_ends,0,1,0,100
+090425-02062014,1200,0,Office Hours,hotel,Work_days,0,1,0,100
+098362-19062014,6110,0,Office Hours,house,Work_days,0,4,0,100
+099374-21062014,1100,3,Office Hours,shopping_mall,Week_ends,0,1,0,100
+101062-24062014,6110,2,Office Hours,office,Work_days,0,1,0,100
+103256-28062014,1100,4,Night-time,shopping_mall,Week_ends,0,1,0,100
+105123-01072014,6990,3,Night-time,house,Work_days,0,1,0,100
+105216-01072014,2270,0,Cooking-time,others,Work_days,0,2,0,100
+105257-01072014,6200,3,Office Hours,public_facility,Work_days,0,1,0,100
+105590-01072014,6990,7,Night-time,others,Work_days,0,1,0,100
+108425-06072014,6990,3,Cooking-time,public_facility,Week_ends,0,2,0,100
+108550-06072014,6990,4,Office Hours,public_facility,Week_ends,0,1,0,100
+109150-07072014,6900,4,Office Hours,apartment,Work_days,0,2,0,100
+109629-08072014,6900,8,Office Hours,apartment,Work_days,0,1,0,100
+115038-16072014,1200,0,Night-time,hotel,Work_days,0,2,0,100
+115841-18072014,1130,0,Cooking-time,shopping_mall,Work_days,0,1,0,100
+117523-21072014,6900,4,Office Hours,hotel,Work_days,0,1,0,100
+118220-22072014,6200,1,Office Hours,tansport,Work_days,0,1,0,100
+118229-22072014,6200,2,Office Hours,tansport,Work_days,0,1,0,100
+119706-25072014,6900,5,Cooking-time,school,Work_days,0,1,0,100
+119853-25072014,6900,6,Cooking-time,school,Work_days,0,1,0,100
+120042-25072014,6900,7,Office Hours,others,Work_days,0,1,0,100
+120321-26072014,6100,2,Night-time,shopping_mall,Week_ends,0,1,0,100
+122038-29072014,6200,1,Office Hours,public_facility,Work_days,0,4,0,100
+122146-29072014,6990,8,Cooking-time,others,Work_days,0,1,0,100
+122314-29072014,1900,1,Office Hours,others,Work_days,0,2,0,100
+125231-02082014,1100,2,Office Hours,hotel,Week_ends,0,1,0,100
+125284-02082014,1100,3,Office Hours,hotel,Week_ends,0,1,0,100
+125320-02082014,1100,4,Cooking-time,hotel,Week_ends,0,1,0,100
+130992-10082014,6200,3,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+135717-18082014,6110,4,Cooking-time,others,Work_days,0,1,0,100
+136194-18082014,6900,8,Night-time,others,Work_days,0,1,0,100
+137700-21082014,6100,3,Cooking-time,shopping_mall,Work_days,0,4,0,100
+137788-22082014,6100,4,Night-time,shopping_mall,Work_days,0,1,0,100
+139016-24082014,6990,2,Office Hours,house,Week_ends,0,1,0,100
+140311-26082014,6200,2,Night-time,school,Work_days,0,1,0,100
+144514-04092014,6100,4,Cooking-time,apartment,Work_days,0,1,0,100
+146772-09092014,6100,2,Cooking-time,restaurant,Work_days,0,1,0,100
+146835-09092014,1100,3,Cooking-time,office,Work_days,0,2,0,100
+147262-10092014,1100,4,Night-time,others,Work_days,0,2,0,100
+147270-10092014,1100,5,Night-time,others,Work_days,0,1,0,100
+147275-10092014,1100,6,Night-time,others,Work_days,0,1,0,100
+147280-10092014,1100,7,Night-time,others,Work_days,0,1,0,100
+147436-10092014,1200,1,Office Hours,hotel,Work_days,0,1,0,100
+149134-13092014,1900,1,Cooking-time,others,Week_ends,0,1,0,100
+151613-18092014,6200,1,Night-time,tansport,Work_days,0,1,0,100
+157235-27092014,6110,1,Night-time,hotel,Week_ends,0,2,0,100
+157323-28092014,6900,4,Night-time,hospital,Week_ends,0,1,0,100
+157431-28092014,6900,1,Office Hours,restaurant,Week_ends,0,1,0,100
+157598-28092014,6990,3,Cooking-time,apartment,Week_ends,0,4,0,100
+157817-28092014,6900,5,Cooking-time,hospital,Week_ends,0,1,0,100
+158736-30092014,1100,3,Night-time,school,Work_days,0,1,0,100
+160381-01102014,6990,3,Cooking-time,public_facility,Work_days,0,3,0,100
+161935-04102014,0,0,Night-time,hotel,Week_ends,0,1,0,100
+166929-11102014,6900,2,Office Hours,public_facility,Week_ends,0,1,0,100
+167451-11102014,6900,3,Cooking-time,public_facility,Week_ends,0,2,0,100
+168014-12102014,1170,0,Office Hours,industry_facility,Week_ends,0,1,0,100
+170327-15102014,6990,1,Cooking-time,restaurant,Work_days,0,4,0,100
+170601-15102014,6900,6,Office Hours,others,Work_days,0,1,0,100
+170676-15102014,1110,0,Cooking-time,others,Work_days,0,1,0,100
+170973-16102014,1110,1,Cooking-time,others,Work_days,0,1,0,100
+171530-17102014,1100,4,Office Hours,others,Work_days,0,2,0,100
+172152-18102014,6100,3,Cooking-time,public_facility,Week_ends,0,2,0,100
+172294-18102014,6100,4,Cooking-time,public_facility,Week_ends,0,1,0,100
+176092-25102014,6990,3,Night-time,apartment,Week_ends,0,1,0,100
+176281-25102014,2350,0,Office Hours,others,Week_ends,0,1,0,100
+178439-27102014,0,0,Night-time,office,Work_days,0,1,0,100
+180236-30102014,1100,1,Office Hours,tansport,Work_days,0,1,0,100
+180416-30102014,1100,0,Night-time,restaurant,Work_days,0,5,0,100
+180430-30102014,1100,3,Night-time,tansport,Work_days,0,1,0,100
+181530-01112014,1200,0,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+182094-01112014,0,0,Cooking-time,public_facility,Week_ends,0,1,0,100
+182319-01112014,0,0,Office Hours,rest_home,Week_ends,0,1,0,100
+182793-01112014,6900,2,Cooking-time,office,Week_ends,0,1,0,100
+182831-01112014,6900,3,Cooking-time,office,Week_ends,0,2,0,100
+182982-02112014,6110,1,Night-time,apartment,Week_ends,0,3,0,100
+183974-03112014,1100,1,Office Hours,hotel,Work_days,0,1,0,100
+185552-05112014,6110,1,Office Hours,rest_home,Work_days,0,1,0,100
+185907-05112014,6110,2,Cooking-time,hotel,Work_days,0,1,0,100
+186496-06112014,6100,4,Cooking-time,hotel,Work_days,0,1,0,100
+186504-06112014,6100,5,Cooking-time,hotel,Work_days,0,1,0,100
+186509-06112014,6100,6,Cooking-time,hotel,Work_days,0,1,0,100
+186698-07112014,1200,0,Cooking-time,office,Work_days,0,4,0,100
+187634-08112014,2350,0,Cooking-time,others,Week_ends,0,1,0,100
+188108-09112014,6200,3,Office Hours,apartment,Week_ends,0,1,0,100
+188140-09112014,6200,4,Office Hours,apartment,Week_ends,0,1,0,100
+188291-09112014,6200,5,Cooking-time,apartment,Week_ends,0,1,0,100
+188498-09112014,6200,6,Cooking-time,apartment,Week_ends,0,1,0,100
+194409-18112014,6100,2,Office Hours,industry_facility,Work_days,0,1,0,100
+194493-18112014,6100,3,Office Hours,industry_facility,Work_days,0,1,0,100
+197952-22112014,6900,3,Cooking-time,hospital,Week_ends,0,1,0,100
+197981-22112014,6900,4,Cooking-time,hospital,Week_ends,0,1,0,100
+198194-23112014,6990,4,Night-time,hospital,Week_ends,0,1,0,100
+198213-23112014,6900,5,Night-time,hospital,Week_ends,0,1,0,100
+198386-23112014,6900,3,Office Hours,hotel,Week_ends,0,1,0,100
+198763-23112014,7110,1,Office Hours,others,Week_ends,0,1,0,100
+199193-23112014,6900,4,Cooking-time,hotel,Week_ends,0,1,0,100
+203501-30112014,6110,0,Night-time,house,Week_ends,0,1,0,100
+203688-30112014,1100,1,Office Hours,tansport,Week_ends,0,1,0,100
+203722-30112014,1100,0,Office Hours,house,Week_ends,0,1,0,100
+203774-30112014,6900,3,Cooking-time,shopping_mall,Week_ends,0,3,0,100
+204090-30112014,6900,2,Cooking-time,shopping_mall,Week_ends,0,4,0,100
+204113-30112014,6900,4,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+204117-30112014,6900,5,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+204121-30112014,6900,6,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+205828-03122014,1900,0,Cooking-time,school,Work_days,0,1,0,100
+208112-06122014,6200,2,Night-time,rest_home,Week_ends,0,1,0,100
+208213-06122014,6100,5,Cooking-time,others,Week_ends,0,1,0,100
+208247-06122014,6990,3,Cooking-time,office,Week_ends,0,2,0,100
+208284-06122014,6990,4,Office Hours,office,Week_ends,0,2,0,100
+208628-06122014,6990,4,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+208852-07122014,6100,6,Night-time,others,Week_ends,0,1,0,100
+209232-07122014,6990,5,Office Hours,shopping_mall,Week_ends,0,1,0,100
+209535-07122014,6990,6,Cooking-time,shopping_mall,Week_ends,0,1,0,100
+209704-07122014,6990,7,Night-time,shopping_mall,Week_ends,0,1,0,100
+209905-08122014,6990,8,Office Hours,shopping_mall,Work_days,0,1,0,100
+211041-10122014,6100,2,Cooking-time,house,Work_days,0,2,0,100
+211074-10122014,6100,5,Office Hours,others,Work_days,0,1,0,100
+211367-10122014,6100,6,Cooking-time,others,Work_days,0,1,0,100
+213008-13122014,1200,0,Cooking-time,others,Week_ends,0,2,0,100
+213086-13122014,6110,1,Cooking-time,industry_facility,Week_ends,0,1,0,100
+213372-14122014,6990,4,Cooking-time,hotel,Week_ends,0,1,0,100
+213377-14122014,6990,5,Office Hours,hotel,Week_ends,0,1,0,100
+213596-14122014,4310,0,Office Hours,others,Week_ends,0,1,0,100
+218190-21122014,6900,5,Office Hours,others,Week_ends,0,1,0,100
+218379-22122014,1100,2,Night-time,rest_home,Work_days,0,1,0,100
+221746-27122014,6100,2,Cooking-time,tansport,Week_ends,0,1,0,100
+221847-27122014,6990,1,Office Hours,tansport,Week_ends,0,2,0,100
+223401-30122014,2270,0,Office Hours,office,Work_days,0,1,0,100
+223682-30122014,1100,2,Office Hours,public_facility,Work_days,0,1,0,100
+001864-03012015,1120,0,Cooking-time,industry_facility,Week_ends,0,1,0,100
+009606-17012015,0,0,Cooking-time,tansport,Week_ends,0,1,0,100
+012870-23012015,6990,4,Night-time,office,Work_days,0,1,0,100
+013317-23012015,6990,5,Cooking-time,office,Work_days,0,1,0,100
+013843-24012015,1100,1,Cooking-time,industry_facility,Week_ends,0,1,0,100
+015301-27012015,2270,0,Cooking-time,office,Work_days,0,4,0,100
+016380-29012015,6900,2,Office Hours,restaurant,Work_days,0,2,0,100
+017935-01022015,6990,2,Office Hours,office,Week_ends,0,1,0,100
+017948-01022015,6200,1,Office Hours,tansport,Week_ends,0,1,0,100
+021145-07022015,6100,6,Cooking-time,school,Week_ends,0,2,0,100
+021287-08022015,1100,2,Night-time,office,Week_ends,0,2,0,100
+021941-08022015,6100,1,Night-time,restaurant,Week_ends,0,1,0,100
+022409-09022015,1100,5,Cooking-time,others,Work_days,0,1,0,100
+022556-10022015,6900,3,Cooking-time,tansport,Work_days,0,1,0,100
+025925-16022015,6100,3,Office Hours,school,Work_days,0,4,0,100
+026281-17022015,6100,5,Cooking-time,school,Work_days,0,3,0,100
+026611-17022015,6100,6,Cooking-time,school,Work_days,0,2,0,100
+028260-20022015,6100,4,Office Hours,school,Work_days,0,1,0,100
+028675-21022015,6100,6,Office Hours,school,Week_ends,0,1,0,100
+028784-21022015,6100,7,Cooking-time,school,Week_ends,0,1,0,100
+028954-21022015,6100,8,Cooking-time,school,Week_ends,0,2,0,100
+029430-22022015,6100,9,Cooking-time,school,Week_ends,0,3,0,100
+030365-24022015,6900,3,Office Hours,industry_facility,Work_days,0,1,0,100
+031362-26022015,6100,6,Office Hours,school,Work_days,0,1,0,100
+031722-27022015,6100,7,Office Hours,school,Work_days,0,1,0,100
+031823-27022015,6100,8,Cooking-time,school,Work_days,0,1,0,100
+032817-01032015,6110,2,Night-time,apartment,Week_ends,0,1,0,100
+032879-01032015,6110,3,Night-time,apartment,Week_ends,0,1,0,100
+032992-01032015,6900,3,Office Hours,public_facility,Week_ends,0,1,0,100
+033018-01032015,6100,10,Cooking-time,school,Week_ends,0,1,0,100
+033083-01032015,6900,4,Cooking-time,public_facility,Week_ends,0,1,0,100
+033217-01032015,6990,3,Office Hours,hospital,Week_ends,0,1,0,100
+033231-01032015,6900,5,Office Hours,public_facility,Week_ends,0,1,0,100
+033292-01032015,6990,4,Office Hours,hospital,Week_ends,0,1,0,100
+033329-01032015,6900,6,Office Hours,public_facility,Week_ends,0,1,0,100
+033344-01032015,6900,7,Office Hours,public_facility,Week_ends,0,1,0,100
+033458-01032015,6100,11,Cooking-time,school,Week_ends,0,1,0,100
+034120-03032015,6900,5,Cooking-time,public_facility,Work_days,0,1,0,100
+034429-03032015,6990,6,Cooking-time,office,Work_days,0,1,0,100
+034682-04032015,6990,7,Cooking-time,office,Work_days,0,1,0,100
+035162-05032015,6990,8,Night-time,office,Work_days,0,1,0,100
+035778-06032015,6990,1,Night-time,restaurant,Work_days,0,1,0,100
+036798-07032015,1100,3,Office Hours,others,Week_ends,0,1,0,100
+036823-07032015,1100,4,Office Hours,others,Week_ends,0,1,0,100
+036854-07032015,1100,5,Office Hours,others,Week_ends,0,1,0,100
+036887-07032015,6100,1,Cooking-time,house,Week_ends,0,1,0,100
+037027-08032015,6110,3,Night-time,office,Week_ends,0,1,0,100
+038734-10032015,1100,1,Cooking-time,restaurant,Work_days,0,1,0,100
+045276-21032015,1200,0,Office Hours,apartment,Week_ends,0,1,0,100
+046509-24032015,2350,0,Night-time,others,Work_days,0,1,0,100
+050931-31032015,6100,5,Office Hours,school,Work_days,0,1,0,100
+053847-06042015,6900,3,Night-time,industry_facility,Work_days,0,1,0,100
+053850-06042015,6900,4,Night-time,industry_facility,Work_days,0,1,0,100
+053858-06042015,6900,5,Night-time,industry_facility,Work_days,0,1,0,100
+056132-10042015,6100,5,Night-time,apartment,Work_days,0,1,0,100
+056552-11042015,6100,6,Cooking-time,apartment,Week_ends,0,1,0,100
+056669-11042015,6100,7,Night-time,apartment,Week_ends,0,1,0,100
+056731-12042015,6100,8,Night-time,apartment,Week_ends,0,1,0,100
+056971-12042015,6100,9,Cooking-time,apartment,Week_ends,0,1,0,100
+057049-12042015,6100,10,Office Hours,apartment,Week_ends,0,1,0,100
+058408-15042015,1140,0,Cooking-time,apartment,Work_days,0,1,0,100
+058444-15042015,0,0,Office Hours,tansport,Work_days,0,1,0,100
+058492-15042015,1140,1,Cooking-time,apartment,Work_days,0,1,0,100
+067084-22042015,6110,5,Cooking-time,school,Work_days,0,1,0,100
+068161-22042015,4110,0,Night-time,others,Work_days,0,1,0,100
+068296-23042015,6100,4,Night-time,school,Work_days,0,2,0,100
+068551-23042015,6900,5,Cooking-time,hospital,Work_days,0,1,0,100
+069073-23042015,6110,3,Cooking-time,rest_home,Work_days,0,1,0,100
+069121-23042015,6110,1,Night-time,industry_facility,Work_days,0,4,0,100
+069329-24042015,6200,4,Cooking-time,others,Work_days,0,1,0,100
+069486-24042015,6200,5,Cooking-time,others,Work_days,0,1,0,100
+069655-24042015,6110,7,Office Hours,school,Work_days,0,1,0,100
+069757-24042015,6990,5,Cooking-time,hotel,Work_days,0,1,0,100
+069761-24042015,6990,6,Cooking-time,hotel,Work_days,0,1,0,100
+070075-25042015,6990,6,Office Hours,apartment,Week_ends,0,1,0,100
+070077-25042015,6990,7,Office Hours,apartment,Week_ends,0,1,0,100
+070286-25042015,2270,0,Office Hours,office,Week_ends,0,1,0,100
+070942-25042015,6900,1,Night-time,restaurant,Week_ends,0,1,0,100
+071023-26042015,6900,5,Night-time,others,Week_ends,0,1,0,100
+071034-26042015,6990,4,Night-time,others,Week_ends,0,1,0,100
+071357-26042015,6990,3,Office Hours,school,Week_ends,0,1,0,100
+071400-26042015,6990,4,Cooking-time,school,Week_ends,0,1,0,100
+074708-02052015,6100,3,Office Hours,school,Week_ends,0,2,0,100
+074799-02052015,6100,4,Office Hours,school,Week_ends,0,2,0,100
+074804-02052015,6100,1,Office Hours,house,Week_ends,0,2,0,100
+074820-02052015,1120,0,Office Hours,hotel,Week_ends,0,1,0,100
+074950-02052015,6100,3,Cooking-time,office,Week_ends,0,1,0,100
+074969-02052015,6900,3,Cooking-time,rest_home,Week_ends,0,1,0,100
+075094-03052015,6110,3,Night-time,school,Week_ends,0,1,0,100
+075184-03052015,6100,2,Night-time,house,Week_ends,0,1,0,100
+075224-03052015,6110,4,Night-time,school,Week_ends,0,1,0,100
+075430-03052015,6100,7,Office Hours,school,Week_ends,0,1,0,100
+075598-03052015,6200,3,Cooking-time,school,Week_ends,0,1,0,100
+075621-03052015,6200,4,Cooking-time,school,Week_ends,0,1,0,100
+075864-03052015,6900,6,Night-time,school,Week_ends,0,1,0,100
+075915-04052015,6900,7,Night-time,school,Work_days,0,1,0,100
+076040-04052015,6200,5,Cooking-time,school,Work_days,0,1,0,100
+076156-04052015,6900,8,Cooking-time,school,Work_days,0,1,0,100
+076165-04052015,6900,9,Cooking-time,school,Work_days,0,1,0,100
+076184-04052015,6900,10,Cooking-time,school,Work_days,0,1,0,100
+083520-18052015,6100,5,Night-time,school,Work_days,0,1,0,100
+086329-23052015,6990,2,Office Hours,industry_facility,Week_ends,0,1,0,100
+086691-24052015,1120,1,Cooking-time,office,Week_ends,0,1,0,100
+088301-27052015,1100,3,Office Hours,school,Work_days,0,1,0,100
+091078-02062015,6110,3,Night-time,industry_facility,Work_days,0,1,0,100
+091080-02062015,6110,4,Night-time,industry_facility,Work_days,0,1,0,100
+093259-06062015,1100,1,Office Hours,office,Week_ends,0,1,0,100
+095408-10062015,6110,4,Office Hours,school,Work_days,0,1,0,100
+096229-12062015,1120,2,Night-time,others,Work_days,0,1,0,100
+097040-13062015,1100,3,Cooking-time,apartment,Week_ends,0,1,0,100
+097046-13062015,1100,4,Cooking-time,apartment,Week_ends,0,1,0,100
+097074-13062015,1100,5,Cooking-time,apartment,Week_ends,0,1,0,100
+097391-14062015,6110,2,Night-time,hospital,Week_ends,0,1,0,100
+097414-14062015,1170,0,Night-time,industry_facility,Week_ends,0,1,0,100
+099456-18062015,6110,2,Cooking-time,hospital,Work_days,0,1,0,100
+103128-25062015,6120,1,Cooking-time,others,Work_days,0,2,0,100
+108840-07072015,6110,1,Night-time,shopping_mall,Work_days,0,1,0,100
+113320-15072015,0,0,Office Hours,hospital,Work_days,0,1,0,100
+113338-15072015,0,1,Office Hours,hospital,Work_days,0,1,0,100
+120223-29072015,1100,2,Cooking-time,industry_facility,Work_days,0,1,0,100
+120719-30072015,1100,3,Night-time,industry_facility,Work_days,0,1,0,100
+120775-30072015,1100,4,Cooking-time,industry_facility,Work_days,0,1,0,100

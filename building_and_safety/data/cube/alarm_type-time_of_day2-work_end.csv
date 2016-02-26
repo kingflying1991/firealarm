@@ -1,0 +1,60 @@
+incident_number,alarm_type,time_of_day2,work_end,true_alarm,false_alarm,true_percentage,false_percentage
+602690-17062012,1120,Night-time,Week_ends,0,28,0,100
+605258-22062012,1370,Office Hours,Work_days,0,1,0,100
+606087-23062012,0,Office Hours,Week_ends,0,14,0,100
+606198-23062012,0,Cooking-time,Week_ends,0,28,0,100
+606929-25062012,7100,Cooking-time,Work_days,0,1,0,100
+608004-26062012,0,Night-time,Work_days,0,50,0,100
+609712-30062012,1900,Night-time,Week_ends,0,22,0,100
+610434-01072012,1900,Cooking-time,Week_ends,0,20,0,100
+610836-01072012,0,Night-time,Week_ends,0,12,0,100
+610861-02072012,7110,Night-time,Work_days,0,11,0,100
+611320-02072012,6120,Cooking-time,Work_days,0,19,0,100
+611321-02072012,1170,Cooking-time,Work_days,0,4,0,100
+611409-03072012,1170,Night-time,Work_days,0,6,0,100
+613761-07072012,7110,Office Hours,Week_ends,0,17,0,100
+616870-13072012,1900,Office Hours,Work_days,0,27,0,100
+621628-22072012,1200,Night-time,Week_ends,0,2,0,100
+621642-22072012,1200,Cooking-time,Week_ends,0,8,0,100
+622533-24072012,1900,Night-time,Work_days,0,41,0,100
+623214-25072012,1370,Cooking-time,Work_days,0,1,0,100
+627055-01082012,1200,Office Hours,Work_days,0,11,0,100
+627197-01082012,1200,Cooking-time,Work_days,0,25,0,100
+627308-02082012,1200,Night-time,Work_days,0,18,0,100
+635333-12082012,6120,Cooking-time,Week_ends,0,5,0,100
+637517-16082012,1190,Cooking-time,Work_days,0,1,0,100
+644239-25082012,1120,Cooking-time,Week_ends,0,27,0,100
+649644-01092012,6290,Cooking-time,Week_ends,0,2,0,100
+672889-29092012,1900,Office Hours,Week_ends,0,10,0,100
+702563-07112012,6290,Office Hours,Work_days,0,4,0,100
+704497-10112012,1160,Cooking-time,Week_ends,0,1,0,100
+708026-15112012,6600,Cooking-time,Work_days,0,2,0,100
+713869-25112012,7110,Night-time,Week_ends,0,9,0,100
+714238-25112012,1170,Cooking-time,Week_ends,0,2,0,100
+714349-25112012,1200,Office Hours,Week_ends,0,3,0,100
+714421-25112012,6120,Office Hours,Week_ends,0,9,0,100
+719887-03122012,1160,Night-time,Work_days,0,1,0,100
+734355-22122012,1160,Night-time,Week_ends,0,1,0,100
+015210-16012013,1170,Office Hours,Work_days,0,3,0,100
+051558-10032013,6290,Night-time,Week_ends,0,6,0,100
+063896-30032013,6210,Cooking-time,Week_ends,0,3,0,100
+064267-31032013,6210,Night-time,Week_ends,0,3,0,100
+069245-09042013,6210,Night-time,Work_days,0,5,0,100
+069314-09042013,6210,Cooking-time,Work_days,0,6,0,100
+088722-11052013,6210,Office Hours,Week_ends,0,2,0,100
+113849-25062013,6210,Office Hours,Work_days,0,5,0,100
+121869-10072013,8990,Cooking-time,Work_days,0,1,0,100
+037114-25022014,2270,Office Hours,Work_days,0,2,0,100
+062375-12042014,1110,Night-time,Week_ends,0,1,0,100
+105216-01072014,2270,Cooking-time,Work_days,0,6,0,100
+115841-18072014,1130,Cooking-time,Work_days,0,1,0,100
+168014-12102014,1170,Office Hours,Week_ends,0,1,0,100
+170676-15102014,1110,Cooking-time,Work_days,0,2,0,100
+176281-25102014,2350,Office Hours,Week_ends,0,1,0,100
+187634-08112014,2350,Cooking-time,Week_ends,0,1,0,100
+213596-14122014,4310,Office Hours,Week_ends,0,1,0,100
+046509-24032015,2350,Night-time,Work_days,0,1,0,100
+058408-15042015,1140,Cooking-time,Work_days,0,2,0,100
+068161-22042015,4110,Night-time,Work_days,0,1,0,100
+070286-25042015,2270,Office Hours,Week_ends,0,1,0,100
+097414-14062015,1170,Night-time,Week_ends,0,1,0,100

@@ -1,0 +1,11 @@
+{% extends 'web/base.html' %}
+{% load humanize toolbox_tags %}
+{% load render_table from django_tables2 %}
+
+
+{% block content %}
+<link rel="stylesheet" href="{{ STATIC_URL }}django_tables2/themes/paleblue/css/screen.css" />
+     <h2>The data cubes of features: {{feature_name}}</h2>
+       {% render_table data_cube %}
+
+{% endblock %}
